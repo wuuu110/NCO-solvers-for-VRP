@@ -97,6 +97,10 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, *arXiv*, 2019, [[paper](https://arxiv.org/pdf/1906.01227.pdf)]
 
+&bull; Learning to Solve NP-Complete Problems: A Graph Neural Network for Decision TSP, *AAAI*, 2019, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4399)]
+
+&bull; Generalization of machine learning for problem reduction: a case study on travelling salesman problems, *OR Spectrum*, 2021, [[paper](https://link.springer.com/article/10.1007/s00291-020-00604-x)]
+
 &bull; Combining Reinforcement Learning and Optimal Transport for the Traveling Salesman Problem, *arXiv*, 2022, [[paper](https://arxiv.org/pdf/2203.00903.pdf)]
 
 &bull; Deep Policy Dynamic Programming for Vehicle Routing Problems, *CPAIOR*, 2022, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_14)]
@@ -121,7 +125,6 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=JtF0ugNMv2)]
 
-&bull; A, *c*, 2019, [[paper]()]
 
 # Contact
 
