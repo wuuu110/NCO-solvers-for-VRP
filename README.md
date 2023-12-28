@@ -9,9 +9,12 @@ author = {Wu, Xuan},
 }
 ```
 # Table of Contents(Follow the taxonomy in the paper)
-[Learning to Construct (L2C) solvers](#L2C)
+■ [Learning to Construct (L2C) solvers](#L2C)
+
 [Learning to Improve (L2I) solvers]
+
 [Learning to Predict-Once (L2P-O) solvers]
+
 [Learning to Predict-Multiplicity (L2C-M) solvers]
 ## L2C
 &bull; Pointer Networks, Neurips, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
