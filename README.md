@@ -47,6 +47,12 @@ author = {Wu, Xuan},
 &bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems
 , arXiv, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
 
+&bull; Memory-efficient Transformer-based network model for Traveling Salesman Problem, Neural Networks, 2023, [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000771)]
+
+&bull; Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization, NeurIPS, 2023, [[paper](https://openreview.net/pdf?id=RBI4oAbdpm)]
+
+&bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, AAAI, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
+
 ## Learning to Improve (L2I) solvers
 ## Learning to Predict-Once (L2P-O) solvers
 ## Learning to Predict-Multiplicity (L2C-M) solvers
