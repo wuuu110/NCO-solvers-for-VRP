@@ -8,6 +8,10 @@ note={arXiv},
 author = {Wu, Xuan},
 }
 ```
+## How to request the addition of a paper
+If you know of a paper that addresses an imbalance problem concerning generic object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
+
+
 # Table of Contents(Follow the taxonomy in the paper)
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
 
