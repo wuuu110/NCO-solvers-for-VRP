@@ -76,9 +76,9 @@ author = {Wu, Xuan},
 
 &bull; An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, arXiv, 2019, [[paper](https://arxiv.org/pdf/1906.01227.pdf)]
 
-&bull; Deep Policy Dynamic Programming for Vehicle Routing Problems, CPAIOR, 2022, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_14)]
+&bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, AAAI, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Deep Policy Dynamic Programming for Vehicle Routing Problems, CPAIOR, 2022, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_14)]
 
 &bull; DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, NeurIPS, 2023, [[paper](https://arxiv.org/pdf/2309.14032.pdf)]
 
