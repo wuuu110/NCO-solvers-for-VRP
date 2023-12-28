@@ -84,6 +84,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, *arXiv*, 2019, [[paper](https://arxiv.org/pdf/1906.01227.pdf)]
 
+&bull; Combining Reinforcement Learning and Optimal Transport for the Traveling Salesman Problem, *arXiv*, 2022, [[paper](https://arxiv.org/pdf/2203.00903.pdf)]
+
 &bull; Deep Policy Dynamic Programming for Vehicle Routing Problems, *CPAIOR*, 2022, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_14)]
 
 &bull; DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2309.14032.pdf)]
