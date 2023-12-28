@@ -16,3 +16,7 @@ author = {Wu, Xuan},
 ## Learning to Improve (L2I) solvers
 ## Learning to Predict-Once (L2P-O) solvers
 ## Learning to Predict-Multiplicity (L2C-M) solvers
+
+# Contact
+
+Please contact Xuan Wu "[n2308769c@e.ntu.edu.sg](n2308769c@e.ntu.edu.sg)" for your questions about this webpage.
