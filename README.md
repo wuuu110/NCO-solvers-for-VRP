@@ -84,8 +84,6 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, *arXiv*, 2019, [[paper](https://arxiv.org/pdf/1906.01227.pdf)]
 
-&bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, *AAAI*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
-
 &bull; Deep Policy Dynamic Programming for Vehicle Routing Problems, *CPAIOR*, 2022, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_14)]
 
 &bull; DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2309.14032.pdf)]
@@ -94,19 +92,19 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 ## Learning to Predict-Multiplicity (L2C-M) solvers
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, *AAAI*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Combining Reinforcement Learning with Lin-Kernighan-Helsgaun Algorithm for the Traveling Salesman Problem, *AAAI*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17476)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Learning a Latent Search Space for Routing Problems using Variational Autoencoders, *ICLR*, 2021, [[paper](https://openreview.net/pdf?id=90JprVrJBO)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem, *NeurIPS*, 2021, [[paper](https://proceedings.neurips.cc/paper/2021/file/3d863b367aa379f71c7afc0c9cdca41d-Paper.pdf)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, *ICLR*, 2022, [[paper](https://openreview.net/pdf?id=ar92oEosBIg)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2302.08224.pdf)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=JtF0ugNMv2)]
 
 
 
