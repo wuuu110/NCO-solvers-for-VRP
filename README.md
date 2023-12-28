@@ -1,4 +1,4 @@
-# A Repository of the Paper "[Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey]()"
+# A Repository of the Papers Address Vehicle Routing Problems Using Neural Combinatorial Optimization Solvers
 This repository provides an up-to-date list of studies addressing Vehicle Routing Problems (VRPs) using Neural Combinatorial Optimization (NCO) solvers. It follows the taxonomy provided in the following paper (please cite this paper if you benefit from this repository):
 
 ```
@@ -59,7 +59,7 @@ author = {Wu, Xuan},
 
 ## Learning to Improve (L2I) solvers
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Learning to Perform Local Rewriting for Combinatorial Optimization, NeurIPS, 2019, [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/131f383b434fdf48079bff1e44e2d9a5-Paper.pdf)]
 
 &bull; A, A, 2021, [[paper]()]
 
