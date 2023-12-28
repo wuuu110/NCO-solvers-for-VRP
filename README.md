@@ -44,7 +44,7 @@ author = {Wu, Xuan},
 
 &bull; Scale-conditioned Adaptation for Large Scale Combinatorial Optimization, NeurIPS(workshop), 2022, [[paper](https://openreview.net/pdf?id=oy8hDBI8Qx)]
 
-&bull; Data-efficient Supervised Learning is Powerful for Neural Combinatorial Optimization , arXiv, 2023, [[paper](https://openreview.net/pdf?id=a_yFkJ4-uEK)]
+&bull; Data-efficient Supervised Learning is Powerful for Neural Combinatorial Optimization, arXiv, 2023, [[paper](https://openreview.net/pdf?id=a_yFkJ4-uEK)]
 
 &bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, AAAI, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
 
@@ -61,19 +61,21 @@ author = {Wu, Xuan},
 
 &bull; Learning to Perform Local Rewriting for Combinatorial Optimization, NeurIPS, 2019, [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/131f383b434fdf48079bff1e44e2d9a5-Paper.pdf)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; A Learning-based Iterative Method for Solving Vehicle Routing Problems, ICLR, 2020, [[paper](https://openreview.net/pdf?id=BJe1334YDH)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Neural Large Neighborhood Search for the Capacitated Vehicle Routing Problem, ECAI, 2020, [[paper](https://ecai2020.eu/papers/786_paper.pdf)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Learning 2-opt Heuristics for the Traveling Salesman Problem via Deep Reinforcement Learning, ACML, 2020, [[paper](https://proceedings.mlr.press/v129/costa20a/costa20a.pdf)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Learning 3-opt Heuristics for Traveling Salesman Problem via Deep Reinforcement Learning, ACML, 2021, [[paper](https://proceedings.mlr.press/v157/sui21a/sui21a.pdf)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Learning Improvement Heuristics for Solving Routing Problems, TNNLS, 2021, [[paper](https://ieeexplore.ieee.org/document/9393606)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer, NeurIPS, 2021, [[paper](https://proceedings.neurips.cc/paper/2021/file/5c53292c032b6cb8510041c54274e65f-Paper.pdf)]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; Learning to CROSS exchange to solve min-max vehicle routing problems, ICLR, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
+
+&bull; Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-opt, NeurIPS, 2023, [[paper](https://openreview.net/pdf?id=q1JukwH2yP)]
 ## Learning to Predict-Once (L2P-O) solvers
 
 &bull; An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, arXiv, 2019, [[paper](https://arxiv.org/pdf/1906.01227.pdf)]
