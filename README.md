@@ -28,6 +28,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Learning Combinatorial Optimization Algorithms over Graphs, *NeurIPS*, 2017, [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/d9896106ca98d3d05b8cbdf4fd8b13a1-Paper.pdf)]
 
+&bull; Reinforcement Learning for Solving the Vehicle Routing Problem, *NeurIPS*, 2018, [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/9fb4651c05b2ed70fba5afe0b039a550-Paper.pdf)]
+
 &bull; Attention, learn to solve routing problems!, *ICLR*, 2019, [[paper](https://openreview.net/pdf?id=ByxBFsRqYm)]
 
 &bull; POMO: Policy Optimization with Multiple Optima for Reinforcement Learning, *NeurIPS*, 2020, [[paper](https://proceedings.neurips.cc/paper/2020/file/f231f2107df69eab0a3862d50018a9b2-Paper.pdf)]
@@ -40,7 +42,13 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Learning Collaborative Policies to Solve NP-hard Routing Problems, *NeurIPS*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17430)]
 
+&bull; Matrix encoding networks for neural combinatorial optimization, *NeurIPS*, 2021, [[paper](https://openreview.net/pdf?id=C__ChZs8WjU)]
+
 &bull; Efficient Active Search for Combinatorial Optimization Problems, *ICLR*, 2022, [[paper](https://openreview.net/pdf?id=nO5caZwFwYu)]
+
+&bull; Reinforcement Learning With Multiple Relational Attention for Solving Vehicle Routing Problems, *TCYB*, 2022, [[paper](https://ieeexplore.ieee.org/document/9478307)]
+
+&bull; Deep Reinforcement Learning for Combinatorial Optimization: Covering Salesman Problems, *TCYB*, 2022, [[paper](https://ieeexplore.ieee.org/document/9523517)]
 
 &bull; Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, *NeurIPS*, 2022, [[paper](https://openreview.net/forum?id=kHrE2vi5Rvs)]
 
@@ -48,12 +56,15 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Scale-conditioned Adaptation for Large Scale Combinatorial Optimization, *NeurIPS(workshop)*, 2022, [[paper](https://openreview.net/pdf?id=oy8hDBI8Qx)]
 
+&bull; Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, *TNNLS*, 2023, [[paper](https://ieeexplore.ieee.org/document/10160045)]
+
 &bull; Data-efficient Supervised Learning is Powerful for Neural Combinatorial Optimization, *arXiv*, 2023, [[paper](https://openreview.net/pdf?id=a_yFkJ4-uEK)]
+
+&bull; A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/pdf/2305.01883.pdf)]
 
 &bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, *AAAI*, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
 
-&bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems
-, *arXiv*, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
+&bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
 
 &bull; Memory-efficient Transformer-based network model for Traveling Salesman Problem, *Neural Networks*, 2023, [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000771)]
 
@@ -108,7 +119,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=JtF0ugNMv2)]
 
-
+&bull; A, *c*, 2019, [[paper]()]
 
 # Contact
 
