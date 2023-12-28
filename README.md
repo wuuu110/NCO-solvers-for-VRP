@@ -9,7 +9,7 @@ author = {Wu, Xuan},
 }
 ```
 # Table of Contents(Follow the taxonomy in the paper)
-&#9632; [Learning to Construct (L2C) solvers](#L2C)
+&U+25AA; [Learning to Construct (L2C) solvers](#L2C)
 
 [Learning to Improve (L2I) solvers]
 
