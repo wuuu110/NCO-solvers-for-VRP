@@ -74,15 +74,15 @@ author = {Wu, Xuan},
 &bull; A, A, 2021, [[paper]()]
 ## Learning to Predict-Once (L2P-O) solvers
 
-&bull; A, A, 2021, [[paper]()]
+&bull; An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, arXiv, 2019, [[paper](https://arxiv.org/pdf/1906.01227.pdf)]
+
+&bull; Deep Policy Dynamic Programming for Vehicle Routing Problems, CPAIOR, 2022, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_14)]
 
 &bull; A, A, 2021, [[paper]()]
 
-&bull; A, A, 2021, [[paper]()]
+&bull; DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, NeurIPS, 2023, [[paper](https://arxiv.org/pdf/2309.14032.pdf)]
 
-&bull; A, A, 2021, [[paper]()]
-
-&bull; A, A, 2021, [[paper]()]
+&bull; Unsupervised Learning for Solving the Travelling Salesman Problem, NeurIPS, 2023, [[paper](https://openreview.net/pdf?id=lAEc7aIW20)]
 
 &bull; A, A, 2021, [[paper]()]
 
