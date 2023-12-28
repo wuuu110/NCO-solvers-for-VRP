@@ -17,9 +17,20 @@ author = {Wu, Xuan},
 
 [Learning to Predict-Multiplicity (L2C-M) solvers](#Learning-to-Predict-Multiplicity-L2C-M-solvers)
 ## Learning to Construct (L2C) solvers
-&bull; Pointer Networks, Neurips, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
+&bull; Pointer Networks, NeurIPS, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
+
+&bull; Neural Combinatorial Optimization with Reinforcement Learning, ICLR(workshop), 2017, [[paper](https://openreview.net/pdf?id=Bk9mxlSFx)]
+
+&bull; Learning Combinatorial Optimization Algorithms over Graphs, NeurIPS, 2017, [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/d9896106ca98d3d05b8cbdf4fd8b13a1-Paper.pdf)]
 
 &bull; Attention, learn to solve routing problems!, ICLR, 2019, [[paper](https://openreview.net/pdf?id=ByxBFsRqYm)]
+
+&bull; Pointer Networks, Neurips, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
+
+&bull; Pointer Networks, Neurips, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
+
+&bull; Pointer Networks, Neurips, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
+
 ## Learning to Improve (L2I) solvers
 ## Learning to Predict-Once (L2P-O) solvers
 ## Learning to Predict-Multiplicity (L2C-M) solvers
