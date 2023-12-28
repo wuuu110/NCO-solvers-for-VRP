@@ -64,6 +64,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, *AAAI*, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
 
+&bull; H-TSP: Hierarchically Solving the Large-Scale Travelling Salesman Problem, *AAAI*, 2023, [[paper](https://arxiv.org/pdf/2304.09395.pdf)]
+
 &bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
 
 &bull; Memory-efficient Transformer-based network model for Traveling Salesman Problem, *Neural Networks*, 2023, [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000771)]
