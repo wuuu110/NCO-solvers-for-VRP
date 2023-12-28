@@ -32,6 +32,20 @@ author = {Wu, Xuan},
 
 &bull; Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems, AAAI, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17430)]
 
+&bull; Step-Wise Deep Learning Models for Solving Routing Problems, TII, 2021, [[paper](https://ieeexplore.ieee.org/document/9226142)]
+
+&bull; Learning Collaborative Policies to Solve NP-hard Routing Problems, NeurIPS, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17430)]
+
+&bull; Efficient Active Search for Combinatorial Optimization Problems, ICLR, 2022, [[paper](https://openreview.net/pdf?id=nO5caZwFwYu)]
+
+&bull; A, AAAI, 2021, [[paper]()]
+
+&bull; A, AAAI, 2021, [[paper]()]
+
+&bull; A, AAAI, 2021, [[paper]()]
+
+&bull; A, AAAI, 2021, [[paper]()]
+
 ## Learning to Improve (L2I) solvers
 ## Learning to Predict-Once (L2P-O) solvers
 ## Learning to Predict-Multiplicity (L2C-M) solvers
