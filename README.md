@@ -40,6 +40,8 @@ author = {Wu, Xuan},
 
 &bull; Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, NeurIPS, 2022, [[paper](https://openreview.net/forum?id=kHrE2vi5Rvs)]
 
+&bull; Simulation-guided Beam Search for Neural Combinatorial Optimization, NeurIPS, 2022, [[paper](https://openreview.net/pdf?id=tYAS1Rpys5)]
+
 &bull; Scale-conditioned Adaptation for Large Scale Combinatorial Optimization, NeurIPS(workshop), 2022, [[paper](https://openreview.net/pdf?id=oy8hDBI8Qx)]
 
 &bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, AAAI, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
