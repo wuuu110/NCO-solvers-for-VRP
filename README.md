@@ -9,14 +9,14 @@ author = {Wu, Xuan},
 }
 ```
 # Table of Contents(Follow the taxonomy in the paper)
-&U+25AA; [Learning to Construct (L2C) solvers](#L2C)
+[Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
 
 [Learning to Improve (L2I) solvers]
 
 [Learning to Predict-Once (L2P-O) solvers]
 
 [Learning to Predict-Multiplicity (L2C-M) solvers]
-## L2C
+## Learning to Construct (L2C) solvers
 &bull; Pointer Networks, Neurips, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
 
 &bull; Attention, learn to solve routing problems!, ICLR, 2019, [[paper](https://openreview.net/pdf?id=ByxBFsRqYm)]
