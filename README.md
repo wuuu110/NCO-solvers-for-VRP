@@ -44,6 +44,8 @@ author = {Wu, Xuan},
 
 &bull; Scale-conditioned Adaptation for Large Scale Combinatorial Optimization, NeurIPS(workshop), 2022, [[paper](https://openreview.net/pdf?id=oy8hDBI8Qx)]
 
+&bull; Data-efficient Supervised Learning is Powerful for Neural Combinatorial Optimization , arXiv, 2023, [[paper](https://openreview.net/pdf?id=a_yFkJ4-uEK)]
+
 &bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, AAAI, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
 
 &bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems
@@ -83,8 +85,6 @@ author = {Wu, Xuan},
 &bull; DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, NeurIPS, 2023, [[paper](https://arxiv.org/pdf/2309.14032.pdf)]
 
 &bull; Unsupervised Learning for Solving the Travelling Salesman Problem, NeurIPS, 2023, [[paper](https://openreview.net/pdf?id=lAEc7aIW20)]
-
-&bull; A, A, 2021, [[paper]()]
 
 ## Learning to Predict-Multiplicity (L2C-M) solvers
 
