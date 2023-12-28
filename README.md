@@ -38,13 +38,14 @@ author = {Wu, Xuan},
 
 &bull; Efficient Active Search for Combinatorial Optimization Problems, ICLR, 2022, [[paper](https://openreview.net/pdf?id=nO5caZwFwYu)]
 
-&bull; A, AAAI, 2021, [[paper]()]
+&bull; Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, NeurIPS, 2022, [[paper](https://openreview.net/forum?id=kHrE2vi5Rvs)]
 
-&bull; A, AAAI, 2021, [[paper]()]
+&bull; Scale-conditioned Adaptation for Large Scale Combinatorial Optimization, NeurIPS(workshop), 2022, [[paper](https://openreview.net/pdf?id=oy8hDBI8Qx)]
 
-&bull; A, AAAI, 2021, [[paper]()]
+&bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, AAAI, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
 
-&bull; A, AAAI, 2021, [[paper]()]
+&bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems
+, arXiv, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
 
 ## Learning to Improve (L2I) solvers
 ## Learning to Predict-Once (L2P-O) solvers
