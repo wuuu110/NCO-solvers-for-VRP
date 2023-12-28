@@ -88,6 +88,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer, *NeurIPS*, 2021, [[paper](https://proceedings.neurips.cc/paper/2021/file/5c53292c032b6cb8510041c54274e65f-Paper.pdf)]
 
+&bull; Effcient Neural Neighborhood Search for Pickup and Delivery Problems, *IJCAI*, 2022, [[paper](https://www.ijcai.org/proceedings/2022/0662.pdf)]
+
 &bull; Learning to CROSS exchange to solve min-max vehicle routing problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
 
 &bull; Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-opt, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=q1JukwH2yP)]
