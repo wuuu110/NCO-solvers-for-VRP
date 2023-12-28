@@ -52,4 +52,4 @@ author = {Wu, Xuan},
 
 # Contact
 
-Please contact Xuan Wu ([n2308769c@e.ntu.edu.sg](n2308769c@e.ntu.edu.sg)) for your questions about this webpage.
+Please contact Xuan Wu ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)) or ([n2308769c@e.ntu.edu.sg](n2308769c@e.ntu.edu.sg)) for your questions about this webpage.
