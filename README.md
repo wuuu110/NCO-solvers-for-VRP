@@ -56,8 +56,53 @@ author = {Wu, Xuan},
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, AAAI, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
 
 ## Learning to Improve (L2I) solvers
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
 ## Learning to Predict-Once (L2P-O) solvers
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
 ## Learning to Predict-Multiplicity (L2C-M) solvers
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+&bull; A, A, 2021, [[paper]()]
+
+
 
 # Contact
 
