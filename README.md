@@ -58,6 +58,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, *TNNLS*, 2023, [[paper](https://ieeexplore.ieee.org/document/10160045)]
 
+&bull; RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, *TETCI*, 2023, [[paper](https://ieeexplore.ieee.org/document/9690950)]
+
 &bull; Data-efficient Supervised Learning is Powerful for Neural Combinatorial Optimization, *arXiv*, 2023, [[paper](https://openreview.net/pdf?id=a_yFkJ4-uEK)]
 
 &bull; A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/pdf/2305.01883.pdf)]
@@ -101,17 +103,25 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Learning to Solve NP-Complete Problems: A Graph Neural Network for Decision TSP, *AAAI*, 2019, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4399)]
 
-&bull; Generalization of machine learning for problem reduction: a case study on travelling salesman problems, *OR Spectrum*, 2021, [[paper](https://link.springer.com/article/10.1007/s00291-020-00604-x)]
+&bull; Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems, *OR Spectrum*, 2021, [[paper](https://link.springer.com/article/10.1007/s00291-020-00604-x)]
 
 &bull; Combining Reinforcement Learning and Optimal Transport for the Traveling Salesman Problem, *arXiv*, 2022, [[paper](https://arxiv.org/pdf/2203.00903.pdf)]
 
 &bull; Deep Policy Dynamic Programming for Vehicle Routing Problems, *CPAIOR*, 2022, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_14)]
+
+&bull; DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems, *NeurIPS*, 2022, [[paper](https://openreview.net/pdf?id=9u05zr0nhx)]
 
 &bull; DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2309.14032.pdf)]
 
 &bull; Unsupervised Learning for Solving the Travelling Salesman Problem, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=lAEc7aIW20)]
 
 ## Learning to Predict-Multiplicity (L2C-M) solvers
+
+&bull; Boosting Dynamic Programming with Neural Networks for Solving NP-hard Problems, *ICML*, 2018, [[paper](https://proceedings.mlr.press/v95/yang18a/yang18a.pdf)]
+
+&bull; Approximate Dynamic Programming with Neural Networks in Linear Discrete Action Spaces, *arXiv*, 2019, [[paper](https://arxiv.org/pdf/1902.09855.pdf)]
+
+&bull; Deep Neural Network Approximated Dynamic Programming for Combinatorial Optimization, *AAAI*, 2020, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5531)]
 
 &bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, *AAAI*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
 
