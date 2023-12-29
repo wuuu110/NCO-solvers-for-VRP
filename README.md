@@ -131,12 +131,21 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem, *NeurIPS*, 2021, [[paper](https://proceedings.neurips.cc/paper/2021/file/3d863b367aa379f71c7afc0c9cdca41d-Paper.pdf)]
 
+&bull; Learning to Delegate for Large-scale Vehicle Routing *NeurIPS*, 2021, [[paper](https://openreview.net/pdf?id=rm0I5y2zkG8)]
+
 &bull; Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, *ICLR*, 2022, [[paper](https://openreview.net/pdf?id=ar92oEosBIg)]
+
+&bull; RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, *SIGKDD*, 2022, [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539037)]
+
+&bull; Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=6ZajpxqTlQ)]
+
+&bull; Select and Optimize: Learning to solve large-scale TSP instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a.html)]
 
 &bull; DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2302.08224.pdf)]
 
 &bull; From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=JtF0ugNMv2)]
 
+&bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
 # Contact
 
