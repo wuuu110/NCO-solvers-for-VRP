@@ -115,6 +115,11 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Unsupervised Learning for Solving the Travelling Salesman Problem, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=lAEc7aIW20)]
 
+&bull; DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2302.08224.pdf)]
+
+&bull; From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=JtF0ugNMv2)]
+
+
 ## Learning to Predict-Multiplicity (L2C-M) Solvers
 
 &bull; Boosting Dynamic Programming with Neural Networks for Solving NP-hard Problems, *ICML*, 2018, [[paper](https://proceedings.mlr.press/v95/yang18a/yang18a.pdf)]
@@ -140,10 +145,6 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 &bull; Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=6ZajpxqTlQ)]
 
 &bull; Select and Optimize: Learning to solve large-scale TSP instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a.html)]
-
-&bull; DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2302.08224.pdf)]
-
-&bull; From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=JtF0ugNMv2)]
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
