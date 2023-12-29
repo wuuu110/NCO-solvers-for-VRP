@@ -8,11 +8,11 @@ note={arXiv},
 author = {Wu, Xuan},
 }
 ```
-## How to request the addition of a paper
+## How To Request the Addition of A Paper
 If you know of a paper that addresses an imbalance problem concerning generic object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
 
 
-# Table of Contents(Follow the taxonomy in the paper)
+# Table of Contents (Follow the Taxonomy in the Paper)
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
 
 [Learning to Improve (L2I) solvers](#Learning-to-Improve-L2I-solvers)
@@ -21,7 +21,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 [Learning to Predict-Multiplicity (L2C-M) solvers](#Learning-to-Predict-Multiplicity-L2C-M-solvers)
 
-## Learning to Construct (L2C) solvers
+## Learning to Construct (L2C) Solvers
 &bull; Pointer Networks, *NeurIPS*, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
 
 &bull; Neural Combinatorial Optimization with Reinforcement Learning, *ICLR(workshop)*, 2017, [[paper](https://openreview.net/pdf?id=Bk9mxlSFx)]
@@ -76,7 +76,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, *AAAI*, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
 
-## Learning to Improve (L2I) solvers
+## Learning to Improve (L2I) Solvers
 
 &bull; Learning to Perform Local Rewriting for Combinatorial Optimization, *NeurIPS*, 2019, [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/131f383b434fdf48079bff1e44e2d9a5-Paper.pdf)]
 
@@ -97,7 +97,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 &bull; Learning to CROSS exchange to solve min-max vehicle routing problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
 
 &bull; Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-opt, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=q1JukwH2yP)]
-## Learning to Predict-Once (L2P-O) solvers
+## Learning to Predict-Once (L2P-O) Solvers
 
 &bull; An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, *arXiv*, 2019, [[paper](https://arxiv.org/pdf/1906.01227.pdf)]
 
@@ -115,7 +115,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Unsupervised Learning for Solving the Travelling Salesman Problem, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=lAEc7aIW20)]
 
-## Learning to Predict-Multiplicity (L2C-M) solvers
+## Learning to Predict-Multiplicity (L2C-M) Solvers
 
 &bull; Boosting Dynamic Programming with Neural Networks for Solving NP-hard Problems, *ICML*, 2018, [[paper](https://proceedings.mlr.press/v95/yang18a/yang18a.pdf)]
 
