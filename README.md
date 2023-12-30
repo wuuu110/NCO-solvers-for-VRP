@@ -144,7 +144,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=6ZajpxqTlQ)]
 
-&bull; Select and Optimize: Learning to solve large-scale TSP instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a.html)]
+&bull; Select and Optimize: Learning to solve large-scale TSP instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)]
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
