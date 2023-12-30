@@ -129,6 +129,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=JtF0ugNMv2)]
 
+&bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
 ## Learning to Predict-Multiplicity (L2C-M) Solvers
 
@@ -145,8 +146,6 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 &bull; Learning to Delegate for Large-scale Vehicle Routing *NeurIPS*, 2021, [[paper](https://openreview.net/pdf?id=rm0I5y2zkG8)]
 
 &bull; RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, *SIGKDD*, 2022, [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539037)]
-
-&bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
 # Contact
 
