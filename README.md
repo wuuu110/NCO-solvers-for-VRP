@@ -96,6 +96,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Learning to CROSS exchange to solve min-max vehicle routing problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
 
+&bull; Select and Optimize: Learning to solve large-scale TSP instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)]
+
 &bull; Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-opt, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=q1JukwH2yP)]
 ## Learning to Predict-Once (L2P-O) Solvers
 
@@ -143,8 +145,6 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 &bull; RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, *SIGKDD*, 2022, [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539037)]
 
 &bull; Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=6ZajpxqTlQ)]
-
-&bull; Select and Optimize: Learning to solve large-scale TSP instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)]
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
