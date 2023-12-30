@@ -119,6 +119,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems, *NeurIPS*, 2022, [[paper](https://openreview.net/pdf?id=9u05zr0nhx)]
 
+&bull; Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=6ZajpxqTlQ)]
+
 &bull; DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2309.14032.pdf)]
 
 &bull; Unsupervised Learning for Solving the Travelling Salesman Problem, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=lAEc7aIW20)]
@@ -143,8 +145,6 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 &bull; Learning to Delegate for Large-scale Vehicle Routing *NeurIPS*, 2021, [[paper](https://openreview.net/pdf?id=rm0I5y2zkG8)]
 
 &bull; RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, *SIGKDD*, 2022, [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539037)]
-
-&bull; Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=6ZajpxqTlQ)]
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
