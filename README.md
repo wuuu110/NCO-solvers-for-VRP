@@ -105,6 +105,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems, *OR Spectrum*, 2021, [[paper](https://link.springer.com/article/10.1007/s00291-020-00604-x)]
 
+&bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, *AAAI*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
+
 &bull; NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem, *NeurIPS*, 2021, [[paper](https://proceedings.neurips.cc/paper/2021/file/3d863b367aa379f71c7afc0c9cdca41d-Paper.pdf)]
 
 &bull; Combining Reinforcement Learning and Optimal Transport for the Traveling Salesman Problem, *arXiv*, 2022, [[paper](https://arxiv.org/pdf/2203.00903.pdf)]
@@ -129,8 +131,6 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 &bull; Approximate Dynamic Programming with Neural Networks in Linear Discrete Action Spaces, *arXiv*, 2019, [[paper](https://arxiv.org/pdf/1902.09855.pdf)]
 
 &bull; Deep Neural Network Approximated Dynamic Programming for Combinatorial Optimization, *AAAI*, 2020, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5531)]
-
-&bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, *AAAI*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
 
 &bull; Combining Reinforcement Learning with Lin-Kernighan-Helsgaun Algorithm for the Traveling Salesman Problem, *AAAI*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17476)]
 
