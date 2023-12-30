@@ -109,6 +109,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem, *NeurIPS*, 2021, [[paper](https://proceedings.neurips.cc/paper/2021/file/3d863b367aa379f71c7afc0c9cdca41d-Paper.pdf)]
 
+&bull; Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, *ICLR*, 2022, [[paper](https://openreview.net/pdf?id=ar92oEosBIg)]
+
 &bull; Combining Reinforcement Learning and Optimal Transport for the Traveling Salesman Problem, *arXiv*, 2022, [[paper](https://arxiv.org/pdf/2203.00903.pdf)]
 
 &bull; Deep Policy Dynamic Programming for Vehicle Routing Problems, *CPAIOR*, 2022, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_14)]
@@ -137,8 +139,6 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 &bull; Learning a Latent Search Space for Routing Problems using Variational Autoencoders, *ICLR*, 2021, [[paper](https://openreview.net/pdf?id=90JprVrJBO)]
 
 &bull; Learning to Delegate for Large-scale Vehicle Routing *NeurIPS*, 2021, [[paper](https://openreview.net/pdf?id=rm0I5y2zkG8)]
-
-&bull; Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, *ICLR*, 2022, [[paper](https://openreview.net/pdf?id=ar92oEosBIg)]
 
 &bull; RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, *SIGKDD*, 2022, [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539037)]
 
