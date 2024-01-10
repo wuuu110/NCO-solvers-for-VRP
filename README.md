@@ -95,8 +95,6 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Effcient Neural Neighborhood Search for Pickup and Delivery Problems, *IJCAI*, 2022, [[paper](https://www.ijcai.org/proceedings/2022/0662.pdf)]
 
-&bull; Learning to CROSS exchange to solve min-max vehicle routing problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
-
 &bull; Select and Optimize: Learning to solve large-scale TSP instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)]
 
 &bull; Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-opt, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=q1JukwH2yP)]
@@ -147,6 +145,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 &bull; Learning to Delegate for Large-scale Vehicle Routing *NeurIPS*, 2021, [[paper](https://openreview.net/pdf?id=rm0I5y2zkG8)]
 
 &bull; RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, *SIGKDD*, 2022, [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539037)]
+
+&bull; Learning to CROSS exchange to solve min-max vehicle routing problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
 
 # Contact
 
