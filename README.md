@@ -132,7 +132,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 ## Learning to Predict-Multiplicity (L2C-M) Solvers
 
-&bull; Boosting Dynamic Programming with Neural Networks for Solving NP-hard Problems, *ICML*, 2018, [[paper](https://proceedings.mlr.press/v95/yang18a/yang18a.pdf)]
+&bull; Boosting Dynamic Programming with Neural Networks for Solving NP-hard Problems, *ACML*, 2018, [[paper](https://proceedings.mlr.press/v95/yang18a/yang18a.pdf)]
 
 &bull; Approximate Dynamic Programming with Neural Networks in Linear Discrete Action Spaces, *arXiv*, 2019, [[paper](https://arxiv.org/pdf/1902.09855.pdf)]
 
