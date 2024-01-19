@@ -12,7 +12,7 @@ year = {2024}
 ## How To Request the Addition of A Paper
 If you know of a paper that addresses an imbalance problem concerning generic object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
 
-
+/*
 # Table of Contents (Follow the Taxonomy in the Paper)
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
 
@@ -147,6 +147,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 &bull; RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, *SIGKDD*, 2022, [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539037)]
 
 &bull; Learning to CROSS Exchange to Solve Min-max Vehicle Routing Problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
+*/
 
 # Contact
 
