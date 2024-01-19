@@ -31,7 +31,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Reinforcement Learning for Solving the Vehicle Routing Problem, *NeurIPS*, 2018, [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/9fb4651c05b2ed70fba5afe0b039a550-Paper.pdf)]
 
-&bull; Attention, learn to solve routing problems!, *ICLR*, 2019, [[paper](https://openreview.net/pdf?id=ByxBFsRqYm)]
+&bull; Attention, Learn to Solve Routing Problems!, *ICLR*, 2019, [[paper](https://openreview.net/pdf?id=ByxBFsRqYm)]
 
 &bull; POMO: Policy Optimization with Multiple Optima for Reinforcement Learning, *NeurIPS*, 2020, [[paper](https://proceedings.neurips.cc/paper/2020/file/f231f2107df69eab0a3862d50018a9b2-Paper.pdf)]
 
@@ -43,7 +43,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Learning Collaborative Policies to Solve NP-hard Routing Problems, *NeurIPS*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17430)]
 
-&bull; Matrix encoding networks for neural combinatorial optimization, *NeurIPS*, 2021, [[paper](https://openreview.net/pdf?id=C__ChZs8WjU)]
+&bull; Matrix Encoding Networks for Neural Combinatorial Optimization, *NeurIPS*, 2021, [[paper](https://openreview.net/pdf?id=C__ChZs8WjU)]
 
 &bull; Efficient Active Search for Combinatorial Optimization Problems, *ICLR*, 2022, [[paper](https://openreview.net/pdf?id=nO5caZwFwYu)]
 
@@ -95,7 +95,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Effcient Neural Neighborhood Search for Pickup and Delivery Problems, *IJCAI*, 2022, [[paper](https://www.ijcai.org/proceedings/2022/0662.pdf)]
 
-&bull; Select and Optimize: Learning to solve large-scale TSP instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)]
+&bull; Select and Optimize: Learning to Solve Large-scale TSP Instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)]
 
 &bull; Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-opt, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=q1JukwH2yP)]
 ## Learning to Predict-Once (L2P-O) Solvers
@@ -146,7 +146,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, *SIGKDD*, 2022, [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539037)]
 
-&bull; Learning to CROSS exchange to solve min-max vehicle routing problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
+&bull; Learning to CROSS Exchange to Solve Min-max Vehicle Routing Problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
 
 # Contact
 
