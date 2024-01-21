@@ -59,23 +59,23 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, *NeurIPS*, 2022, [[paper](https://openreview.net/forum?id=kHrE2vi5Rvs)]
 
-&bull; Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, *TNNLS*, 2023, [[paper](https://ieeexplore.ieee.org/document/10160045)]
-
-&bull; RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, *TETCI*, 2023, [[paper](https://ieeexplore.ieee.org/document/9690950)]
+&bull; A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/pdf/2305.01883.pdf)]
 
 &bull; Data-efficient Supervised Learning is Powerful for Neural Combinatorial Optimization, *arXiv*, 2023, [[paper](https://openreview.net/pdf?id=a_yFkJ4-uEK)]
 
-&bull; A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/pdf/2305.01883.pdf)]
-
-&bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, *AAAI*, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
-
 &bull; H-TSP: Hierarchically Solving the Large-Scale Travelling Salesman Problem, *AAAI*, 2023, [[paper](https://arxiv.org/pdf/2304.09395.pdf)]
 
-&bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
+&bull; Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, *TNNLS*, 2023, [[paper](https://ieeexplore.ieee.org/document/10160045)]
 
 &bull; Memory-efficient Transformer-based network model for Traveling Salesman Problem, *Neural Networks*, 2023, [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000771)]
 
 &bull; Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=RBI4oAbdpm)]
+
+&bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, *AAAI*, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
+
+&bull; RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, *TETCI*, 2023, [[paper](https://ieeexplore.ieee.org/document/9690950)]
+
+&bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
 
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, *AAAI*, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
 
@@ -85,9 +85,9 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; A Learning-based Iterative Method for Solving Vehicle Routing Problems, *ICLR*, 2020, [[paper](https://openreview.net/pdf?id=BJe1334YDH)]
 
-&bull; Neural Large Neighborhood Search for the Capacitated Vehicle Routing Problem, *ECAI*, 2020, [[paper](https://ecai2020.eu/papers/786_paper.pdf)]
-
 &bull; Learning 2-opt Heuristics for the Traveling Salesman Problem via Deep Reinforcement Learning, *ACML*, 2020, [[paper](https://proceedings.mlr.press/v129/costa20a/costa20a.pdf)]
+
+&bull; Neural Large Neighborhood Search for the Capacitated Vehicle Routing Problem, *ECAI*, 2020, [[paper](https://ecai2020.eu/papers/786_paper.pdf)]
 
 &bull; Learning 3-opt Heuristics for Traveling Salesman Problem via Deep Reinforcement Learning, *ACML*, 2021, [[paper](https://proceedings.mlr.press/v157/sui21a/sui21a.pdf)]
 
@@ -97,38 +97,39 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; Effcient Neural Neighborhood Search for Pickup and Delivery Problems, *IJCAI*, 2022, [[paper](https://www.ijcai.org/proceedings/2022/0662.pdf)]
 
+&bull; Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-opt, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=q1JukwH2yP)]
+
 &bull; Select and Optimize: Learning to Solve Large-scale TSP Instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)]
 
-&bull; Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-opt, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=q1JukwH2yP)]
 ## Learning to Predict-Once (L2P-O) Solvers
 
 &bull; An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, *arXiv*, 2019, [[paper](https://arxiv.org/pdf/1906.01227.pdf)]
 
 &bull; Learning to Solve NP-Complete Problems: A Graph Neural Network for Decision TSP, *AAAI*, 2019, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4399)]
 
-&bull; Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems, *OR Spectrum*, 2021, [[paper](https://link.springer.com/article/10.1007/s00291-020-00604-x)]
-
 &bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, *AAAI*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
+
+&bull; Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems, *OR Spectrum*, 2021, [[paper](https://link.springer.com/article/10.1007/s00291-020-00604-x)]
 
 &bull; NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic for Solving the Traveling Salesman Problem, *NeurIPS*, 2021, [[paper](https://proceedings.neurips.cc/paper/2021/file/3d863b367aa379f71c7afc0c9cdca41d-Paper.pdf)]
 
-&bull; Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, *ICLR*, 2022, [[paper](https://openreview.net/pdf?id=ar92oEosBIg)]
-
 &bull; Combining Reinforcement Learning and Optimal Transport for the Traveling Salesman Problem, *arXiv*, 2022, [[paper](https://arxiv.org/pdf/2203.00903.pdf)]
-
-&bull; Deep Policy Dynamic Programming for Vehicle Routing Problems, *CPAIOR*, 2022, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_14)]
 
 &bull; DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems, *NeurIPS*, 2022, [[paper](https://openreview.net/pdf?id=9u05zr0nhx)]
 
+&bull; Deep Policy Dynamic Programming for Vehicle Routing Problems, *CPAIOR*, 2022, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_14)]
+
 &bull; Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=6ZajpxqTlQ)]
 
-&bull; DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2309.14032.pdf)]
-
-&bull; Unsupervised Learning for Solving the Travelling Salesman Problem, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=lAEc7aIW20)]
+&bull; Graph Neural Network Guided Local Search for the Traveling Salesperson Problem, *ICLR*, 2022, [[paper](https://openreview.net/pdf?id=ar92oEosBIg)]
 
 &bull; DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2302.08224.pdf)]
 
+&bull; DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://arxiv.org/pdf/2309.14032.pdf)]
+
 &bull; From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=JtF0ugNMv2)]
+
+&bull; Unsupervised Learning for Solving the Travelling Salesman Problem, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=lAEc7aIW20)]
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
