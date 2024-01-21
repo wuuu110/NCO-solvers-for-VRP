@@ -7,7 +7,6 @@ Please cite this paper if you benefit from this repository.
 ```
 @misc{wu_2024,
 title = {Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey},
-note={arXiv},
 author = {Wu, Xuan},
 year = {2024}
 }
@@ -40,25 +39,25 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; A Hybrid of Deep Reinforcement Learning and Local Search for the Vehicle Routing Problems, *TITS*, 2021, [[paper](https://ieeexplore.ieee.org/document/9141401)]
 
+&bull; Learning Collaborative Policies to Solve NP-hard Routing Problems, *NeurIPS*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17430)]
+
 &bull; Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems, *AAAI*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17430)]
+
+&bull; Matrix Encoding Networks for Neural Combinatorial Optimization, *NeurIPS*, 2021, [[paper](https://openreview.net/pdf?id=C__ChZs8WjU)]
 
 &bull; Step-Wise Deep Learning Models for Solving Routing Problems, *TII*, 2021, [[paper](https://ieeexplore.ieee.org/document/9226142)]
 
-&bull; Learning Collaborative Policies to Solve NP-hard Routing Problems, *NeurIPS*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17430)]
-
-&bull; Matrix Encoding Networks for Neural Combinatorial Optimization, *NeurIPS*, 2021, [[paper](https://openreview.net/pdf?id=C__ChZs8WjU)]
+&bull; Deep Reinforcement Learning for Combinatorial Optimization: Covering Salesman Problems, *TCYB*, 2022, [[paper](https://ieeexplore.ieee.org/document/9523517)]
 
 &bull; Efficient Active Search for Combinatorial Optimization Problems, *ICLR*, 2022, [[paper](https://openreview.net/pdf?id=nO5caZwFwYu)]
 
 &bull; Reinforcement Learning With Multiple Relational Attention for Solving Vehicle Routing Problems, *TCYB*, 2022, [[paper](https://ieeexplore.ieee.org/document/9478307)]
 
-&bull; Deep Reinforcement Learning for Combinatorial Optimization: Covering Salesman Problems, *TCYB*, 2022, [[paper](https://ieeexplore.ieee.org/document/9523517)]
-
-&bull; Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, *NeurIPS*, 2022, [[paper](https://openreview.net/forum?id=kHrE2vi5Rvs)]
+&bull; Scale-conditioned Adaptation for Large Scale Combinatorial Optimization, *NeurIPS(workshop)*, 2022, [[paper](https://openreview.net/pdf?id=oy8hDBI8Qx)]
 
 &bull; Simulation-guided Beam Search for Neural Combinatorial Optimization, *NeurIPS*, 2022, [[paper](https://openreview.net/pdf?id=tYAS1Rpys5)]
 
-&bull; Scale-conditioned Adaptation for Large Scale Combinatorial Optimization, *NeurIPS(workshop)*, 2022, [[paper](https://openreview.net/pdf?id=oy8hDBI8Qx)]
+&bull; Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization, *NeurIPS*, 2022, [[paper](https://openreview.net/forum?id=kHrE2vi5Rvs)]
 
 &bull; Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, *TNNLS*, 2023, [[paper](https://ieeexplore.ieee.org/document/10160045)]
 
