@@ -61,6 +61,8 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 &bull; A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/pdf/2305.01883.pdf)]
 
+&bull; Combinatorial Optimization with Policy Adaptation using Latent Space Search, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=vpMBqdt9Hl)]
+
 &bull; Data-efficient Supervised Learning is Powerful for Neural Combinatorial Optimization, *arXiv*, 2023, [[paper](https://openreview.net/pdf?id=a_yFkJ4-uEK)]
 
 &bull; H-TSP: Hierarchically Solving the Large-Scale Travelling Salesman Problem, *AAAI*, 2023, [[paper](https://arxiv.org/pdf/2304.09395.pdf)]
