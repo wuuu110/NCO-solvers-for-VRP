@@ -14,12 +14,6 @@ note = {arxiv}
 ## How To Request the Addition of A Paper 🤖
 If you know of a paper that addresses an imbalance problem concerning generic object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
 
-## Timeline 🚀
-
-The development of NCO solvers for VRPs. 
-![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
-
-These manuscripts are gathered from Google Scholar and Web of Science with the keywords "Neural Combinatorial Optimization" *OR* "NCO" *OR* "Reinforcement Learning" *OR* "Deep Learning" *OR* "Neural Network" *AND* "Vehicle Routing Problem" *OR* "VRP" *OR* "Traveling Salesman Problem" *OR* "TSP" by the end of 2023. Following the initial data collection, a meticulous examination of each literature piece is conducted to precisely define its scope within the realm of NCO.
 
 # Table of Contents (Follow the Taxonomy in the Paper) 📚
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
@@ -30,7 +24,14 @@ These manuscripts are gathered from Google Scholar and Web of Science with the k
 
 [Learning to Predict-Multiplicity (L2C-M) solvers](#Learning-to-Predict-Multiplicity-L2C-M-solvers)
 
-These manuscripts are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, references are sorted in ascending order, discerned by the initial letter of each respective title.
+## Timeline 🚀
+
+The development of NCO solvers for VRPs. 
+![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
+
+These manuscripts are gathered from Google Scholar and Web of Science with the keywords "Neural Combinatorial Optimization" *OR* "NCO" *OR* "Reinforcement Learning" *OR* "Deep Learning" *OR* "Neural Network" *AND* "Vehicle Routing Problem" *OR* "VRP" *OR* "Traveling Salesman Problem" *OR* "TSP" by the end of 2023. Following the initial data collection, a meticulous examination of each manuscript piece is conducted to precisely define its scope within the realm of NCO.
+
+In addition, these manuscripts are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, manuscripts are sorted in ascending order, discerned by the initial letter of each respective title.
 
 ## Learning to Construct (L2C) Solvers
 &bull; Pointer Networks, *NeurIPS*, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
