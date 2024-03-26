@@ -4,7 +4,7 @@ This repository provides an up-to-date list of studies addressing Vehicle Routin
 🫶Please cite this paper if you benefit from this repository. 
 
 ```
-@misc{wu_2024,
+@misc{wu_2024_neural,
 title = {Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey},
 author = {Wu, Xuan and Wang, Di and Xiao, Yubin and Wu, Chunguo and Wu, Yuesong and Yu, Chaoyu and Zhou, You},
 year = {2024},
@@ -17,7 +17,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 ## Timeline
 <details open>
 <summary>The development of NCO solvers for VRPs</summary>
-![milestones](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
+![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
 </details>
 
 # Table of Contents (Follow the Taxonomy in the Paper)
@@ -167,6 +167,12 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 # Acknowledgement
 This is an open collaborative research project among:
 
+<a href="https://huggingface.co/OpenAGILab">
+    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/jlu.jpg" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+</a>
+<a href="https://hkunlp.github.io/">
+    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/ntu.jpg" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+</a>
 
 
 # Contact
