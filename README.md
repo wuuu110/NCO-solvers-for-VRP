@@ -11,10 +11,10 @@ year = {2024},
 note
 }
 ```
-## How To Request the Addition of A Paper 🚀
+## How To Request the Addition of A Paper 🤖
 If you know of a paper that addresses an imbalance problem concerning generic object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
 
-## Timeline
+## Timeline 🚀
 
 The development of NCO solvers for VRPs
 ![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
@@ -164,7 +164,7 @@ The development of NCO solvers for VRPs
 
 &bull; ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.01145.pdf)]
 
-# Acknowledgement
+# Acknowledgements 
 This is an open collaborative research project among:
 
 <a href="https://ccst.jlu.edu.cn/">
@@ -175,6 +175,6 @@ This is an open collaborative research project among:
 </a>
 
 
-# Contact
+# Contact 🌟
 
 Please contact Xuan Wu ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)) or ([n2308769c@e.ntu.edu.sg](n2308769c@e.ntu.edu.sg)) for your questions about this webpage.
