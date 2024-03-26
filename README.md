@@ -14,6 +14,8 @@ year = {2024}
 ## How To Request the Addition of A Paper
 If you know of a paper that addresses an imbalance problem concerning generic object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
 
+## Timeline
+The Development of NCO solvers for VRPs
 
 # Table of Contents (Follow the Taxonomy in the Paper)
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
