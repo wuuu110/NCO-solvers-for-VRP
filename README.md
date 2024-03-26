@@ -90,6 +90,9 @@ In addition, these manuscripts are meticulously organized in ascending order bas
 
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, *AAAI*, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
 
+&bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
+
+
 ## Learning to Improve (L2I) Solvers
 
 &bull; Learning to Perform Local Rewriting for Combinatorial Optimization, *NeurIPS*, 2019, [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/131f383b434fdf48079bff1e44e2d9a5-Paper.pdf)]
@@ -142,6 +145,8 @@ In addition, these manuscripts are meticulously organized in ascending order bas
 
 &bull; Unsupervised Learning for Solving the Travelling Salesman Problem, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=lAEc7aIW20)]
 
+&bull; Ant Colony Sampling with GFlowNets for Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2403.07041.pdf)]
+
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
 ## Learning to Predict-Multiplicity (L2C-M) Solvers
@@ -165,6 +170,8 @@ In addition, these manuscripts are meticulously organized in ascending order bas
 &bull; Learning to CROSS Exchange to Solve Min-max Vehicle Routing Problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
 
 &bull; An Example of Evolutionary Computation + Large Language Model Beating Human: Design of Efficient Guided Local Search, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2401.02051.pdf)]
+
+&bull; MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.04915.pdf)]
 
 &bull; ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.01145.pdf)]
 
