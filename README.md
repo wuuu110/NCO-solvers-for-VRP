@@ -1,5 +1,5 @@
 # A Repository of the Papers Address Vehicle Routing Problems Using Neural Combinatorial Optimization Solvers 
-This repository provides an up-to-date list of studies addressing Vehicle Routing Problems (VRPs) using Neural Combinatorial Optimization (NCO) solvers. It follows the taxonomy provided in our paper "[Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey]()". The references are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, references are sorted in ascending order, discerned by the initial letter of each respective title.
+This repository provides an up-to-date list of studies addressing Vehicle Routing Problems (VRPs) using Neural Combinatorial Optimization (NCO) solvers. It follows the taxonomy provided in our paper "[Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey]()". 
 
 🫶Please cite this paper if you benefit from this repository. 
 
@@ -19,7 +19,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 The development of NCO solvers for VRPs. 
 ![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
 
-The data is gathered from Google Scholar and Web of Science with the keywords "Neural Combinatorial Optimization" *OR* "NCO" *OR* "Reinforcement Learning" *OR* "Deep Learning" *OR* "Neural Network" *AND* "Vehicle Routing Problem" *OR* "VRP" *OR* "Traveling Salesman Problem" *OR* "TSP" by the end of 2023. Following the initial data collection, a meticulous examination of each literature piece is conducted to precisely define its scope within the realm of NCO.
+These manuscripts are gathered from Google Scholar and Web of Science with the keywords "Neural Combinatorial Optimization" *OR* "NCO" *OR* "Reinforcement Learning" *OR* "Deep Learning" *OR* "Neural Network" *AND* "Vehicle Routing Problem" *OR* "VRP" *OR* "Traveling Salesman Problem" *OR* "TSP" by the end of 2023. Following the initial data collection, a meticulous examination of each literature piece is conducted to precisely define its scope within the realm of NCO.
 
 # Table of Contents (Follow the Taxonomy in the Paper) 📚
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
@@ -29,6 +29,8 @@ The data is gathered from Google Scholar and Web of Science with the keywords "N
 [Learning to Predict-Once (L2P-O) solvers](#Learning-to-Predict-Once-L2P-O-solvers)
 
 [Learning to Predict-Multiplicity (L2C-M) solvers](#Learning-to-Predict-Multiplicity-L2C-M-solvers)
+
+These manuscripts are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, references are sorted in ascending order, discerned by the initial letter of each respective title.
 
 ## Learning to Construct (L2C) Solvers
 &bull; Pointer Networks, *NeurIPS*, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
