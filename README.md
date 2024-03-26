@@ -16,9 +16,10 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 ## Timeline 🚀
 
-The development of NCO solvers for VRPs. The data is gathered from Google Scholar and Web of Science with the keywords "Neural Combinatorial Optimization" *OR* "NCO" *OR* "Reinforcement Learning" *OR* "Deep Learning" *OR* "Neural Network" *AND* "Vehicle Routing Problem" *OR* "VRP" *OR* "Traveling Salesman Problem" *OR* "TSP" by the end of 2023. Following the initial data collection, a meticulous examination of each literature piece is conducted to precisely define its scope within the realm of NCO.
+The development of NCO solvers for VRPs. 
 ![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
 
+The data is gathered from Google Scholar and Web of Science with the keywords "Neural Combinatorial Optimization" *OR* "NCO" *OR* "Reinforcement Learning" *OR* "Deep Learning" *OR* "Neural Network" *AND* "Vehicle Routing Problem" *OR* "VRP" *OR* "Traveling Salesman Problem" *OR* "TSP" by the end of 2023. Following the initial data collection, a meticulous examination of each literature piece is conducted to precisely define its scope within the realm of NCO.
 
 # Table of Contents (Follow the Taxonomy in the Paper) 📚
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
