@@ -15,8 +15,9 @@ year = {2024}
 If you know of a paper that addresses an imbalance problem concerning generic object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
 
 ## Timeline
-The Development of NCO solvers for VRPs
-![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
+<summary>The development of NCO solvers for VRPs</summary>
+
+![milestones](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
 
 # Table of Contents (Follow the Taxonomy in the Paper)
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
