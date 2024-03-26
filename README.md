@@ -167,11 +167,11 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 # Acknowledgement
 This is an open collaborative research project among:
 
-<a href="https://huggingface.co/OpenAGILab">
-    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/jlu.jpg" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+<a href="https://ccst.jlu.edu.cn/">
+    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/jlu.jpg" alt="CCST" height = 50/>
 </a>
-<a href="https://hkunlp.github.io/">
-    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/ntu.svg" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+<a href="https://www.ntu.edu.sg/lily">
+    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/ntu.svg" alt="LILY" height = 50/>
 </a>
 
 
