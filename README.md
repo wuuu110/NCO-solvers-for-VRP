@@ -161,6 +161,9 @@ The Development of NCO solvers for VRPs
 
 &bull; ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.01145.pdf)]
 
+# Acknowledgement
+This is an open collaborative research project among:
+
 
 
 # Contact
