@@ -1,23 +1,24 @@
 # A Repository of the Papers Address Vehicle Routing Problems Using Neural Combinatorial Optimization Solvers
 This repository provides an up-to-date list of studies addressing Vehicle Routing Problems (VRPs) using Neural Combinatorial Optimization (NCO) solvers. It follows the taxonomy provided in our paper "[Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey]()". The references are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, references are sorted in ascending order, discerned by the initial letter of each respective title.
 
-Please cite this paper if you benefit from this repository. 
-
+🫶Please cite this paper if you benefit from this repository. 
 
 ```
 @misc{wu_2024,
 title = {Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey},
-author = {Wu, Xuan},
-year = {2024}
+author = {Wu, Xuan and Wang, Di and Xiao, Yubin and Wu, Chunguo and Wu, Yuesong and Yu, Chaoyu and Zhou, You},
+year = {2024},
+note
 }
 ```
 ## How To Request the Addition of A Paper
 If you know of a paper that addresses an imbalance problem concerning generic object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
 
 ## Timeline
+<details open>
 <summary>The development of NCO solvers for VRPs</summary>
-
 ![milestones](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
+</details>
 
 # Table of Contents (Follow the Taxonomy in the Paper)
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
