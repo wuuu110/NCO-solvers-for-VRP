@@ -1,7 +1,7 @@
 # A Repository of the Papers Address Vehicle Routing Problems Using Neural Combinatorial Optimization Solvers 
 This repository provides an up-to-date list of studies addressing Vehicle Routing Problems (VRPs) using Neural Combinatorial Optimization (NCO) solvers. It follows the taxonomy provided in our paper "[Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey]()". 
 
-Please cite this paper if you benefit from this repository. 🚀
+Please cite this paper if you benefit from this repository. 🚀🚀🚀
 
 ```
 @misc{wu_2024_neural,
