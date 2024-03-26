@@ -12,7 +12,7 @@ note = {arxiv}
 }
 ```
 ## How To Request the Addition of A Paper 🤖
-If you know of a paper that addresses an imbalance problem concerning generic object detection and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request.
+If you know of a paper that addresses VRPs using NCO solvers and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request or email ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)).
 
 
 # Table of Contents (Follow the Taxonomy in the Paper) 📚
@@ -186,6 +186,3 @@ This is an open collaborative research project among:
 </a>
 
 
-# Contact 🌟
-
-Please contact Xuan Wu ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)) or ([n2308769c@e.ntu.edu.sg](n2308769c@e.ntu.edu.sg)) for your questions about this webpage.
