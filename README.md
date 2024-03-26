@@ -16,7 +16,7 @@ If you know of a paper that addresses an imbalance problem concerning generic ob
 
 ## Timeline
 The Development of NCO solvers for VRPs
-![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.pdf)
+![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/ntu.svg)
 
 # Table of Contents (Follow the Taxonomy in the Paper)
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
