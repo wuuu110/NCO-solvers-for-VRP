@@ -1,4 +1,4 @@
-# A Repository of the Papers Address Vehicle Routing Problems Using Neural Combinatorial Optimization Solvers 📜
+# A Repository of the Papers Address Vehicle Routing Problems Using Neural Combinatorial Optimization Solvers 
 This repository provides an up-to-date list of studies addressing Vehicle Routing Problems (VRPs) using Neural Combinatorial Optimization (NCO) solvers. It follows the taxonomy provided in our paper "[Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey]()". The references are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, references are sorted in ascending order, discerned by the initial letter of each respective title.
 
 🫶Please cite this paper if you benefit from this repository. 
@@ -164,7 +164,7 @@ The development of NCO solvers for VRPs
 
 &bull; ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.01145.pdf)]
 
-# Acknowledgements 
+# Acknowledgements 📜
 This is an open collaborative research project among:
 
 <a href="https://ccst.jlu.edu.cn/">
