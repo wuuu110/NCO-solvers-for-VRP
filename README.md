@@ -8,7 +8,7 @@ This repository provides an up-to-date list of studies addressing Vehicle Routin
 title = {Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey},
 author = {Wu, Xuan and Wang, Di and Xiao, Yubin and Wu, Chunguo and Wu, Yuesong and Yu, Chaoyu and Zhou, You},
 year = {2024},
-note
+note = {arxiv}
 }
 ```
 ## How To Request the Addition of A Paper 🤖
