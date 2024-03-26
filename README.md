@@ -171,7 +171,7 @@ This is an open collaborative research project among:
     <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/jlu.jpg" alt="Shark-NLP Shanghai AI Lab" height = 50/>
 </a>
 <a href="https://hkunlp.github.io/">
-    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/ntu.jpg" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/ntu.svg" alt="Shark-NLP Shanghai AI Lab" height = 50/>
 </a>
 
 
