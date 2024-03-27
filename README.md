@@ -89,7 +89,7 @@ In addition, these manuscripts are meticulously organized in ascending order bas
 
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, *AAAI*, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
 
-&bull; PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, *arXiV*, 2024, [[paper](https://arxiv.org/pdf/2402.14048.pdf)]
+&bull; PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.14048.pdf)]
 
 &bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
 
