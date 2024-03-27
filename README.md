@@ -141,9 +141,13 @@ In addition, these manuscripts are meticulously organized in ascending order bas
 
 &bull; Unsupervised Learning for Solving the Travelling Salesman Problem, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=lAEc7aIW20)]
 
+&bull; An Edge-Aware Graph Autoencoder Trained on Scale-Imbalanced Data for Traveling Salesman Problems, *KBS*, 2024, [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001941)]
+
 &bull; Ant Colony Sampling with GFlowNets for Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2403.07041.pdf)]
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
+
+
 
 ## Learning to Predict-Multiplicity (L2C-M) Solvers
 
