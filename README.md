@@ -184,5 +184,5 @@ This is an open collaborative research project among:
 </a>
 
 ## How To Request the Addition of A Paper 🤖
-If you know of a paper that addresses VRPs using NCO solvers and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request or email ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)).
+If you know of a paper that addresses VRPs using NCO solvers and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request or contacting us via email at ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)).
 
