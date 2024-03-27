@@ -13,16 +13,6 @@ note = {arxiv}
 # How To Request the Addition of a Paper 🤖
 If you know of a paper that addresses VRPs using NCO solvers and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request or contacting us via email at ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)).
 
-
-# Table of Contents (Follow the Taxonomy in the Paper) 📚
-[Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
-
-[Learning to Improve (L2I) solvers](#Learning-to-Improve-L2I-solvers)
-
-[Learning to Predict-Once (L2P-O) solvers](#Learning-to-Predict-Once-L2P-O-solvers)
-
-[Learning to Predict-Multiplicity (L2C-M) solvers](#Learning-to-Predict-Multiplicity-L2C-M-solvers)
-
 ## Timeline 🌟
 
 The development of NCO solvers for VRPs. 
@@ -31,6 +21,17 @@ The development of NCO solvers for VRPs.
 These manuscripts are gathered from Google Scholar and Web of Science with the keywords "Neural Combinatorial Optimization" *OR* "NCO" *OR* "Reinforcement Learning" *OR* "Deep Learning" *OR* "Neural Network" *AND* "Vehicle Routing Problem" *OR* "VRP" *OR* "Traveling Salesman Problem" *OR* "TSP" by the end of 2023. Following the initial data collection, a meticulous examination of each manuscript piece is conducted to precisely define its scope within the realm of NCO.
 
 In addition, these manuscripts are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, manuscripts are sorted in ascending order, discerned by the initial letter of each respective title.
+
+## Table of Contents (Follow the Taxonomy in the Paper) 📚
+[Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
+
+[Learning to Improve (L2I) solvers](#Learning-to-Improve-L2I-solvers)
+
+[Learning to Predict-Once (L2P-O) solvers](#Learning-to-Predict-Once-L2P-O-solvers)
+
+[Learning to Predict-Multiplicity (L2C-M) solvers](#Learning-to-Predict-Multiplicity-L2C-M-solvers)
+
+
 
 ## Learning to Construct (L2C) Solvers
 &bull; Pointer Networks, *NeurIPS*, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
