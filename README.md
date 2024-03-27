@@ -181,6 +181,6 @@ This is an open collaborative research project among:
     <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/ntu.svg" height = 50/>
 </a>
 
-## How To Request the Addition of A Paper 🤖
+# How To Request the Addition of A Paper 🤖
 If you know of a paper that addresses VRPs using NCO solvers and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request or contacting us via email at ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)).
 
