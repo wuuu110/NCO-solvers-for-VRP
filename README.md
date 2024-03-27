@@ -13,7 +13,7 @@ note = {arxiv}
 # How To Request the Addition of a Paper 🤖
 If you know of a paper that addresses VRPs using NCO solvers and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request or contacting us via email at ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)).
 
-## Timeline 🌟
+# Timeline 🌟
 
 The development of NCO solvers for VRPs. 
 ![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
@@ -22,7 +22,7 @@ These manuscripts are gathered from Google Scholar and Web of Science with the k
 
 In addition, these manuscripts are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, manuscripts are sorted in ascending order, discerned by the initial letter of each respective title.
 
-## Table of Contents (Follow the Taxonomy in the Paper) 📚
+# Table of Contents (Follow the Taxonomy in the Paper) 📚
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
 
 [Learning to Improve (L2I) solvers](#Learning-to-Improve-L2I-solvers)
