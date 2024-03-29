@@ -1,5 +1,5 @@
-# A Repository of the Papers Address Vehicle Routing Problems Using Neural Combinatorial Optimization Solvers 
-This repository provides an up-to-date list of studies addressing Vehicle Routing Problems (VRPs) using Neural Combinatorial Optimization (NCO) solvers. It follows the taxonomy provided in our paper "[Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey]()". We are dedicated to updating this repository on a monthly basis. Your participation is appreciated; please consider starring ⭐️ this repository to stay informed about the latest updates and cite our paper if you find this repository beneficial 🚀🚀🚀.
+# A Repository of the Studies Addressing Vehicle Routing Problems Using Neural Combinatorial Optimization Solvers 
+This repository provides an up-to-date list of studies addressing Vehicle Routing Problems (VRPs) using Neural Combinatorial Optimization (NCO) solvers. It follows the taxonomy provided in our manuscript "[Neural Combinatorial Optimization Solvers for Vehicle Routing Problems: A Survey]()". We are dedicated to updating this repository on a monthly basis. Your participation is appreciated; please consider starring ⭐️ this repository to stay informed about the latest updates and cite our paper if you find this repository beneficial 🚀🚀🚀.
 
 ```
 @misc{wu_2024_neural,
@@ -11,16 +11,16 @@ note = {arxiv}
 ```
 
 # How To Request the Addition of a Paper 🤖
-If you know of a paper that addresses VRPs using NCO solvers and is not on this repository, you are welcome to request the addition of that paper by submitting a pull request or contacting us via email at ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)).
+If you know any paper addressing VRPs with NCO solvers that is absent from this repository, please feel free to request its inclusion by either submitting a pull request or contacting us via email at  ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)).
 
 # Timeline 🌟
 
 The development of NCO solvers for VRPs. 
 ![Image text](https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/timeline.jpg)
 
-These manuscripts are gathered from Google Scholar and Web of Science with the keywords "Neural Combinatorial Optimization" *OR* "NCO" *OR* "Reinforcement Learning" *OR* "Deep Learning" *OR* "Neural Network" *AND* "Vehicle Routing Problem" *OR* "VRP" *OR* "Traveling Salesman Problem" *OR* "TSP" by the end of 2023. Following the initial data collection, a meticulous examination of each manuscript piece is conducted to precisely define its scope within the realm of NCO.
+These papers are gathered from Google Scholar and Web of Science with the keywords "Neural Combinatorial Optimization" *OR* "NCO" *OR* "Reinforcement Learning" *OR* "Deep Learning" *OR* "Neural Network" *AND* "Vehicle Routing Problem" *OR* "VRP" *OR* "Traveling Salesman Problem" *OR* "TSP" by the end of 2023. Following the initial data collection, a meticulous examination of each paper is conducted to precisely define its scope within the realm of NCO.
 
-In addition, these manuscripts are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, manuscripts are sorted in ascending order, discerned by the initial letter of each respective title.
+In addition, these papers are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, papers are sorted in ascending order, discerned by the initial letter of each respective title.
 
 # Table of Contents (Follow the Taxonomy in the Paper) 📚
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
