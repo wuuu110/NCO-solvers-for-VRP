@@ -191,7 +191,7 @@ This is an open collaborative research project among:
     <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/ntu.svg" height = 50/>
 </a>
 <a href="https://www.thss.tsinghua.edu.cn/">
-    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/thu.svg" height = 50/>
+    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/Thu.svg" height = 50/>
 </a>
 
 
