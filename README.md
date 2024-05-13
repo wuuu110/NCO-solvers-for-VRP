@@ -4,7 +4,7 @@ This repository provides an up-to-date list of studies addressing Vehicle Routin
 ```
 @misc{wu_2024_neural,
 title = {Neural Combinatorial Optimization Algorithms for solving Vehicle Routing Problems: A Comprehensive Survey with Perspective},
-author = {Wu, Xuan and Wang, Di and Xiao, Yubin and Wu, Chunguo and Wu, Yuesong and Yu, Chaoyu and Maskell, Douglas L. and Zhou, You},
+author = {Wu, Xuan and Wang, Di and Wen, Lijie and Xiao, Yubin and Wu, Chunguo and Wu, Yuesong and Yu, Chaoyu and Maskell, Douglas L. and Zhou, You},
 year = {2024},
 note = {arxiv}
 }
@@ -113,6 +113,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Effcient Neural Neighborhood Search for Pickup and Delivery Problems, *IJCAI*, 2022, [[paper](https://www.ijcai.org/proceedings/2022/0662.pdf)]
 
+&bull; Learning to CROSS Exchange to Solve Min-max Vehicle Routing Problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
+
 &bull; Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-opt, *NeurIPS*, 2023, [[paper](https://openreview.net/pdf?id=q1JukwH2yP)]
 
 &bull; Select and Optimize: Learning to Solve Large-scale TSP Instances, *AISTATS*, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)]
@@ -173,8 +175,6 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Algorithm Evolution Using Large Language Model, *arXiv*, 2023, [[paper](https://arxiv.org/pdf/2311.15249.pdf)]
 
-&bull; Learning to CROSS Exchange to Solve Min-max Vehicle Routing Problems, *ICLR*, 2023, [[paper](https://openreview.net/pdf?id=ZcnzsHC10Y)]
-
 &bull; An Example of Evolutionary Computation + Large Language Model Beating Human: Design of Efficient Guided Local Search, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2401.02051.pdf)]
 
 &bull; MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.04915.pdf)]
@@ -189,6 +189,9 @@ This is an open collaborative research project among:
 </a>
 <a href="https://www.ntu.edu.sg/lily">
     <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/ntu.svg" height = 50/>
+</a>
+<a href="https://www.thss.tsinghua.edu.cn/">
+    <img src="https://github.com/wuuu110/NCO-solvers-for-VRP/blob/main/img-folder/thu.svg" height = 50/>
 </a>
 
 
