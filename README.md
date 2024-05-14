@@ -175,7 +175,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Algorithm Evolution Using Large Language Model, *arXiv*, 2023, [[paper](https://arxiv.org/pdf/2311.15249.pdf)]
 
-&bull; An Example of Evolutionary Computation + Large Language Model Beating Human: Design of Efficient Guided Local Search, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2401.02051.pdf)]
+&bull; Evolution of heuristics: Towards efficient automatic algorithm design using large language mode, *ICML*, 2024, [[paper](https://arxiv.org/pdf/2401.02051.pdf)]
 
 &bull; MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.04915.pdf)]
 
