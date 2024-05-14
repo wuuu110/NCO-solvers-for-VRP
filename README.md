@@ -11,7 +11,7 @@ note = {arxiv}
 ```
 
 # How To Request the Addition of a Paper 🤖
-If you know any paper addressing VRPs with NCO solvers that is absent from this repository, please feel free to request its inclusion by either submitting a pull request or contacting us via email at  ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn)).
+If you know any paper addressing VRPs with NCO solvers that is absent from this repository, please feel free to request its inclusion by either submitting a pull request or contacting us via email at  ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn) or [n2308769c@e.ntu.edu.sg]()).
 
 # Timeline 🌟
 
