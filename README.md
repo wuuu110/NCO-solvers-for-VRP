@@ -90,11 +90,19 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
 
+&bull; Equity-Transformer: Solving NP-hard Min-Max Routing Problems as Sequential Generation with Equity Context, *AAAI*, 2024, [[paper](https://arxiv.org/abs/2306.02689)]
+
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, *AAAI*, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
+
+&bull; INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, *ICML*, 2024, [[paper](https://arxiv.org/pdf/2402.02317)]
+
+&bull; Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2406.06652)]
+
+&bull; Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret, *AAAI*, 2024, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30069)]
 
 &bull; PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.14048.pdf)]
 
-&bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
+&bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, *IJCAI*, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
 
 
 ## Learning to Improve (L2I) Solvers
@@ -179,9 +187,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Evolution of heuristics: Towards efficient automatic algorithm design using large language mode, *ICML*, 2024, [[paper](https://arxiv.org/pdf/2401.02051.pdf)]
 
-&bull; MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.04915.pdf)]
+&bull; Large Language Models as Hyper-Heuristics for Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.01145.pdf)]
 
-&bull; ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.01145.pdf)]
+&bull; MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.04915.pdf)]
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
