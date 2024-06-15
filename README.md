@@ -90,9 +90,13 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, *arXiv*, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
 
-&bull; Equity-Transformer: Solving NP-hard Min-Max Routing Problems as Sequential Generation with Equity Context, *AAAI*, 2024, [[paper](https://arxiv.org/abs/2306.02689)]
+&bull; Cross-Problem Learning for Solving Vehicle Routing Problems, *IJCAI*, 2024, [[paper](https://arxiv.org/pdf/2404.11677)]
 
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, *AAAI*, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
+
+&bull; Equity-Transformer: Solving NP-hard Min-Max Routing Problems as Sequential Generation with Equity Context, *AAAI*, 2024, [[paper](https://arxiv.org/abs/2306.02689)]
+
+&bull; Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, *SIGKDD*, 2024, [[paper]()]
 
 &bull; INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, *ICML*, 2024, [[paper](https://arxiv.org/pdf/2402.02317)]
 
@@ -102,12 +106,13 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, *SIGKDD*, 2024, [[paper](https://arxiv.org/pdf/2402.16891)]
 
+&bull; MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts, *ICML*, 2024, [[paper](https://arxiv.org/pdf/2405.01029)]
+
 &bull; PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2402.14048.pdf)]
 
 &bull; Prompt Learning for Generalized Vehicle Routing, *IJCAI*, 2024, [[paper](https://arxiv.org/pdf/2405.12262)]
 
 &bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, *IJCAI*, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
-
 
 ## Learning to Improve (L2I) Solvers
 
@@ -168,6 +173,10 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Ant Colony Sampling with GFlowNets for Combinatorial Optimization, *arXiv*, 2024, [[paper](https://arxiv.org/pdf/2403.07041.pdf)]
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, *AAAI*, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
+
+&bull; On Size and Hardness Generalization in Unsupervised Learning for the Travelling Salesman Problem, *arXiv*, 2024, [[paper](https://arxiv.org/abs/2403.20212)]
+
+&bull; Position: Rethinking Post-Hoc Search-Based Neural Approaches for Solving Large-Scale Traveling Salesman Problems, *ICML*, 2024, [[paper](https://arxiv.org/pdf/2406.03503)]
 
 
 
