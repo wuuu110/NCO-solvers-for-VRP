@@ -80,21 +80,13 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Data-efficient Supervised Learning is Powerful for Neural Combinatorial Optimization, ***arXiv***, 2023, [[paper](https://openreview.net/pdf?id=a_yFkJ4-uEK)]
 
-&bull; H-TSP: Hierarchically Solving the Large-Scale Travelling Salesman Problem, ***AAAI***, 2023, [[paper](https://arxiv.org/pdf/2304.09395.pdf)]
-
 &bull; Learning Feature Embedding Refiner for Solving Vehicle Routing Problems, ***TNNLS***, 2023, [[paper](https://ieeexplore.ieee.org/document/10160045)]
 
-&bull; Memory-efficient Transformer-based network model for Traveling Salesman Problem, ***Neural Networks***, 2023, [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000771)]
-
 &bull; Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization, ***NeurIPS***, 2023, [[paper](https://openreview.net/pdf?id=RBI4oAbdpm)]
-
-&bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, ***AAAI***, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
 
 &bull; RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, ***TETCI***, 2023, [[paper](https://ieeexplore.ieee.org/document/9690950)]
 
 &bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, ***arXiv***, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
-
-&bull; Cross-Problem Learning for Solving Vehicle Routing Problems, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2404.11677)]
 
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, ***AAAI***, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
 
@@ -104,17 +96,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2402.02317)]
 
-&bull; Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2406.06652)]
-
 &bull; Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret, ***AAAI***, 2024, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30069)]
 
-&bull; Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, ***SIGKDD***, 2024, [[paper](https://arxiv.org/pdf/2402.16891)]
-
-&bull; MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2405.01029)]
-
 &bull; PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.14048.pdf)]
-
-&bull; Prompt Learning for Generalized Vehicle Routing, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2405.12262)]
 
 &bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
 
@@ -228,14 +212,44 @@ In addition, these papers are meticulously organized in ascending order based on
 
 
 ## NCO Solvers for Solving Large-scale VRPs
+&bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, ***AAAI***, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
+
+&bull; Learning to Delegate for Large-scale Vehicle Routing ***NeurIPS***, 2021, [[paper](https://openreview.net/pdf?id=rm0I5y2zkG8)]
+
+&bull; DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems, ***NeurIPS***, 2022, [[paper](https://openreview.net/pdf?id=9u05zr0nhx)]
+
+&bull; RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning, ***SIGKDD***, 2022, [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539037)]
+
+&bull; DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization, ***NeurIPS***, 2023, [[paper](https://arxiv.org/pdf/2302.08224.pdf)]
+
+&bull; Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time, ***ICLR***, 2023, [[paper](https://openreview.net/pdf?id=6ZajpxqTlQ)]
+
+&bull; H-TSP: Hierarchically Solving the Large-Scale Travelling Salesman Problem, ***AAAI***, 2023, [[paper](https://arxiv.org/pdf/2304.09395.pdf)]
+
+&bull; Memory-efficient Transformer-based network model for Traveling Salesman Problem, ***Neural Networks***, 2023, [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000771)]
+
+&bull; Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization, ***NeurIPS***, 2023, [[paper](https://openreview.net/pdf?id=RBI4oAbdpm)]
+
+&bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, ***AAAI***, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
+
+&bull; DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2406.19705)]
+
+&bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, ***AAAI***, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
+
+&bull; Self-Improvement for Neural Combinatorial Optimization: Sample Without Replacement, but Improvement, ***TMLR***, 2024, [[paper](https://openreview.net/pdf?id=agT8ojoH0X)]
+
+&bull; Self-Improved Learning for Scalable Neural Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2403.19561)]
+
+&bull; UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2407.00312)]
+
 
 ## NCO Solvers for Solving Multi-constrained VRP Variants
 
-&bull; Efficient Training of Multi-task Combinarotial Neural Solver with Multi-armed Bandits, ***arXiv***, 2023, [[paper](https://arxiv.org/pdf/2305.06361)]
+&bull; Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits, ***arXiv***, 2023, [[paper](https://arxiv.org/pdf/2305.06361)]
 
 &bull; Cross-problem learning for solving vehicle routing problems, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2404.11677)]
 
-&bull; Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.16891)]
+&bull; Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, ***SIGKDD***, 2024, [[paper](https://arxiv.org/pdf/2402.16891)]
 
 &bull; MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2405.01029)]
 
