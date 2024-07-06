@@ -24,7 +24,7 @@ These papers are gathered from Google Scholar and Web of Science with the keywor
 
 In addition, these papers are meticulously organized in ascending order based on their respective publication years. Furthermore, within the same publication year, papers are sorted in ascending order, discerned by the initial letter of each respective title.
 
-# Table of Contents (Follow the Taxonomy in the Paper) 📚
+# Table of Contents (Adhering to the Structure Presented in the Paper) 📚
 [Learning to Construct (L2C) solvers](#Learning-to-Construct-L2C-solvers)
 
 [Learning to Improve (L2I) solvers](#Learning-to-Improve-L2I-solvers)
@@ -33,7 +33,11 @@ In addition, these papers are meticulously organized in ascending order based on
 
 [Learning to Predict-Multiplicity (L2C-M) solvers](#Learning-to-Predict-Multiplicity-L2C-M-solvers)
 
+[NCO Solvers for Out-of-distribution](#NCO-solvers-for-Out-of-distribution)
 
+[NCO Solvers for Large-scale VRPs](#NCO-solvers-for-Large-scale-VRPs)
+
+[NCO Solvers for Multi-constrained VRP Variants](##NCO-solvers-for-Multi-constrained-VRP-Variants)
 
 ## Learning to Construct (L2C) Solvers
 &bull; Pointer Networks, ***NeurIPS***, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
@@ -203,6 +207,13 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Large Language Models as Hyper-Heuristics for Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.01145.pdf)]
 
 &bull; MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.04915.pdf)]
+
+## NCO Solvers for Out-of-distribution
+
+## NCO Solvers for Large-scale VRPs
+
+## NCO Solvers for Multi-constrained VRP Variants
+
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
