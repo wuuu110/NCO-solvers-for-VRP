@@ -251,9 +251,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, ***SIGKDD***, 2024, [[paper](https://arxiv.org/pdf/2402.16891)]
 
-&bull; MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2405.01029)]
-
-&bull; Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2402.16891)]
+&bull; MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2405.01029)]
 
 &bull; Prompt Learning for Generalized Vehicle Routing, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2405.12262)]
 
