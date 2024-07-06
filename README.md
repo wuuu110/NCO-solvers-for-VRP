@@ -94,8 +94,6 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, ***SIGKDD***, 2024, [[paper]()]
 
-&bull; INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2402.02317)]
-
 &bull; Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret, ***AAAI***, 2024, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30069)]
 
 &bull; PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.14048.pdf)]
@@ -207,6 +205,8 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Multi-view graph contrastive learning for solving vehicle routing problems, ***UAI***, 2023, [[paper](https://proceedings.mlr.press/v216/jiang23a/jiang23a.pdf)]
 
 &bull; Towards Omni-generalizable Neural Methods for Vehicle Routing Problems, ***ICML***, 2023, [[paper](https://proceedings.mlr.press/v202/zhou23o/zhou23o.pdf)]
+
+&bull; INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2402.02317)]
 
 &bull; Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2406.06652)]
 
