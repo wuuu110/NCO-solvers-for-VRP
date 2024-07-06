@@ -33,11 +33,11 @@ In addition, these papers are meticulously organized in ascending order based on
 
 [Learning to Predict-Multiplicity (L2C-M) solvers](#Learning-to-Predict-Multiplicity-L2C-M-solvers)
 
-[NCO Solvers for Out-of-distribution](#NCO-solvers-for-Out-of-distribution)
+[NCO Solvers for Solving Out-of-distribution](#NCO-solvers-for-Solving-Out-of-distribution)
 
-[NCO Solvers for Large-scale VRPs](#NCO-solvers-for-Large-scale-VRPs)
+[NCO Solvers for Solving Large-scale VRPs](#NCO-solvers-for-Solving-Large-scale-VRPs)
 
-[NCO Solvers for Multi-constrained VRP Variants](##NCO-solvers-for-Multi-constrained-VRP-Variants)
+[NCO Solvers for Solving Multi-constrained VRP Variants](##NCO-solvers-for-Solving-Multi-constrained-VRP-Variants)
 
 ## Learning to Construct (L2C) Solvers
 &bull; Pointer Networks, ***NeurIPS***, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
@@ -208,14 +208,28 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.04915.pdf)]
 
-## NCO Solvers for Out-of-distribution
+## NCO Solvers for Solving Out-of-distribution
+
+&bull; Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness, ***ICLR***, 2022, [[paper](https://openreview.net/pdf?id=vJZ7dPIjip3)]
+
+&bull; Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation, ***NeurIPS***, 2022, [[paper](https://openreview.net/pdf?id=sOVNpUEgKMp)]
+
+&bull; Learning to Solve Routing Problems via Distributionally Robust Optimization, ***AAAI***, 2022, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21214)]
+
+&bull; Learning to Solve Routing Problems via Distributionally Robust Optimization, ***AAAI***, 2022, [[paper](https://arxiv.org/abs/2204.03236)]
+
+&bull; On the Generalization of Neural Combinatorial Optimization Heuristics, ***ECMLPKDD***, 2022, [[paper]([https://arxiv.org/abs/2204.03236](https://link.springer.com/chapter/10.1007/978-3-031-26419-1_26))]
+
+&bull; Multi-view graph contrastive learning for solving vehicle routing problems, ***UAI***, 2023, [[paper](https://proceedings.mlr.press/v216/jiang23a/jiang23a.pdf)]
+
+&bull; Towards Omni-generalizable Neural Methods for Vehicle Routing Problems, ***ICML***, 2023, [[paper](https://proceedings.mlr.press/v202/zhou23o/zhou23o.pdf)]
 
 &bull; Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2406.06652)]
 
 
-## NCO Solvers for Large-scale VRPs
+## NCO Solvers for Solving Large-scale VRPs
 
-## NCO Solvers for Multi-constrained VRP Variants
+## NCO Solvers for Solving Multi-constrained VRP Variants
 
 &bull; Efficient Training of Multi-task Combinarotial Neural Solver with Multi-armed Bandits, ***arXiv***, 2023, [[paper](https://arxiv.org/pdf/2305.06361)]
 
