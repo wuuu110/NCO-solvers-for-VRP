@@ -210,10 +210,24 @@ In addition, these papers are meticulously organized in ascending order based on
 
 ## NCO Solvers for Out-of-distribution
 
+&bull; Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2406.06652)]
+
+
 ## NCO Solvers for Large-scale VRPs
 
 ## NCO Solvers for Multi-constrained VRP Variants
 
+&bull; Efficient Training of Multi-task Combinarotial Neural Solver with Multi-armed Bandits, ***arXiv***, 2023, [[paper](https://arxiv.org/pdf/2305.06361)]
+
+&bull; Cross-problem learning for solving vehicle routing problems, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2404.11677)]
+
+&bull; Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.16891)]
+
+&bull; MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2405.01029)]
+
+&bull; Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2402.16891)]
+
+&bull; Prompt Learning for Generalized Vehicle Routing, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2405.12262)]
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
