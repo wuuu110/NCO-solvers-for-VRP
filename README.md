@@ -186,6 +186,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Evolution of heuristics: Towards efficient automatic algorithm design using large language mode, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2401.02051.pdf)]
 
+&bull; INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2402.02317)]
+
 &bull; Large Language Models as Hyper-Heuristics for Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.01145.pdf)]
 
 &bull; MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.04915.pdf)]
@@ -205,8 +207,6 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Multi-view graph contrastive learning for solving vehicle routing problems, ***UAI***, 2023, [[paper](https://proceedings.mlr.press/v216/jiang23a/jiang23a.pdf)]
 
 &bull; Towards Omni-generalizable Neural Methods for Vehicle Routing Problems, ***ICML***, 2023, [[paper](https://proceedings.mlr.press/v202/zhou23o/zhou23o.pdf)]
-
-&bull; INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2402.02317)]
 
 &bull; Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2406.06652)]
 
