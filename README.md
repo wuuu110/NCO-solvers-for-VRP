@@ -210,7 +210,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Learning to Solve Routing Problems via Distributionally Robust Optimization, ***AAAI***, 2022, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21214)]
 
-&bull; Learning to Solve Routing Problems via Distributionally Robust Optimization, ***AAAI***, 2022, [[paper](https://arxiv.org/abs/2204.03236)]
+&bull; Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum, ***AAAI***, 2022, [[paper](https://arxiv.org/abs/2204.03236)]
 
 &bull; On the Generalization of Neural Combinatorial Optimization Heuristics, ***ECMLPKDD***, 2022, [[paper]([https://arxiv.org/abs/2204.03236](https://link.springer.com/chapter/10.1007/978-3-031-26419-1_26))]
 
