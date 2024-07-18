@@ -158,6 +158,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Ant Colony Sampling with GFlowNets for Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2403.07041.pdf)]
 
+&bull; DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2406.19705)]
+
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, ***AAAI***, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
 &bull; On Size and Hardness Generalization in Unsupervised Learning for the Travelling Salesman Problem, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2403.20212)]
