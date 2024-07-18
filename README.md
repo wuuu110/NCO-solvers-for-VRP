@@ -11,6 +11,14 @@ This repository provides an up-to-date list of studies addressing Vehicle Routin
       primaryClass={cs.AI}
 }
 ```
+# News 📰
+- **2024.06**: We are excited to release "Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture" [[paper](https://arxiv.org/pdf/2406.06652)] [[code](https://github.com/xybFight/VRP-Generalization)] ! 
+- **2024.06**: We are excited to release this survey! 🚀
+- **2023.12**: Our paper "Distilling Autoregressive Models to Obtain High-Performance Non-autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed
+" are Accept by AAAI [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30008)] [[code](https://github.com/xybFight/GNARKD)] !
+- **2023.08**: We are excited to release "Reinforcement Learning-based Non-Autoregressive
+Solver for Traveling Salesman Problems" [[paper](https://arxiv.org/pdf/2308.00560)] [[code](https://github.com/xybFight/NAR4TSP)] ! 
+
 
 # How To Request the Addition of a Paper 🤖
 If you know any paper addressing VRPs with NCO solvers that is absent from this repository, please feel free to request its inclusion by either submitting a pull request or contacting us via email at  ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn) or [n2308769c@e.ntu.edu.sg]()).
