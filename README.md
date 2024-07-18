@@ -246,7 +246,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, ***AAAI***, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
 
-&bull; Instance-Conditioned Adaptation for Large-scale Generalization of Neural Combinatorial Optimization, **AAAI***, 2024, [[paper](https://arxiv.org/pdf/2405.01906)]
+&bull; Instance-Conditioned Adaptation for Large-scale Generalization of Neural Combinatorial Optimization, **arXiv***, 2024, [[paper](https://arxiv.org/pdf/2405.01906)]
 
 &bull; Self-Improvement for Neural Combinatorial Optimization: Sample Without Replacement, but Improvement, ***TMLR***, 2024, [[paper](https://openreview.net/pdf?id=agT8ojoH0X)]
 
