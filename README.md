@@ -61,7 +61,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; A Hybrid of Deep Reinforcement Learning and Local Search for the Vehicle Routing Problems, ***TITS***, 2021, [[paper](https://ieeexplore.ieee.org/document/9141401)]
 
-&bull; Learning Collaborative Policies to Solve NP-hard Routing Problems, *NeurIPS*, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17430)]
+&bull; Learning Collaborative Policies to Solve NP-hard Routing Problems, *NeurIPS*, 2021, [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/564127c03caab942e503ee6f810f54fd-Paper.pdf)]
 
 &bull; Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems, ***AAAI***, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17430)]
 
