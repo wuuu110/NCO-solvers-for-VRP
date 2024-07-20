@@ -266,6 +266,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Prompt Learning for Generalized Vehicle Routing, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2405.12262)]
 
+&bull; RouteFinder: Towards Foundation Models for Vehicle Routing Problems, ***ICML workshop***, 2024, [[paper](https://openreview.net/forum?id=hCiaiZ6e4G)]
 # Acknowledgements 📜
 This is an open collaborative research project among:
 
