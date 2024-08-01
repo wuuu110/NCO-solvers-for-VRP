@@ -251,6 +251,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Self-Improved Learning for Scalable Neural Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2403.19561)]
 
+&bull; Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization, ***ECAI***, 2024, [[paper](https://arxiv.org/abs/2407.17206)]
+
+
 &bull; UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2407.00312)]
 
 
