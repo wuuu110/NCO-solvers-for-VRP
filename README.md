@@ -103,6 +103,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret, ***AAAI***, 2024, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30069)]
 
+&bull; Leader Reward for POMO-Based Neural Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2405.13947)]
+
+
 &bull; PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.14048.pdf)]
 
 &bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
