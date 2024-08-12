@@ -99,7 +99,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Equity-Transformer: Solving NP-hard Min-Max Routing Problems as Sequential Generation with Equity Context, ***AAAI***, 2024, [[paper](https://arxiv.org/abs/2306.02689)]
 
-&bull; Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, ***SIGKDD***, 2024, [[paper]()]
+&bull; Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, ***SIGKDD***, 2024, [[paper](https://www.arxiv.org/pdf/2408.03585)]
 
 &bull; Learning Encodings for Constructive Neural Combinatorial Optimization Needs to Regret, ***AAAI***, 2024, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30069)]
 
