@@ -259,7 +259,6 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2407.00312)]
 
-&bull; UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2408.12214)]
 ## NCO Solvers for Solving Multi-constrained VRP Variants
 
 &bull; Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits, ***arXiv***, 2023, [[paper](https://arxiv.org/pdf/2305.06361)]
@@ -273,6 +272,9 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Prompt Learning for Generalized Vehicle Routing, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2405.12262)]
 
 &bull; RouteFinder: Towards Foundation Models for Vehicle Routing Problems, ***ICML workshop***, 2024, [[paper](https://openreview.net/forum?id=hCiaiZ6e4G)]
+
+&bull; UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2408.12214)]
+
 # Acknowledgements 📜
 This is an open collaborative research project among:
 
