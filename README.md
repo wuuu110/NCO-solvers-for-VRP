@@ -244,6 +244,10 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem, ***AAAI***, 2023, [[paper](https://arxiv.org/pdf/2304.09407.pdf)]
 
+&bull; CADO: Cost-Aware Diffusion Solvers for Combinatorial Optimization through RL fine-tuning, ***ICML workshop***, 2024, [[paper](https://openreview.net/forum?id=RRbwBbYcvK&noteId=YTtrLSf0uU)]
+
+
+
 &bull; DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2406.19705)]
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, ***AAAI***, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
@@ -255,7 +259,6 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Self-Improved Learning for Scalable Neural Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2403.19561)]
 
 &bull; Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization, ***ECAI***, 2024, [[paper](https://arxiv.org/abs/2407.17206)]
-
 
 &bull; UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2407.00312)]
 
