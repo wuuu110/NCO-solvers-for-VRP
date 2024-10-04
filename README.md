@@ -105,6 +105,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Leader Reward for POMO-Based Neural Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2405.13947)]
 
+&bull; Learning to Handle Complex Constraints for Vehicle Routing Problems,***NeurIPS***, 2024, [[paper](https://nips.cc/virtual/2024/poster/95638)]
+
+&bull; Neural Combinatorial Optimization for Robust Routing Problem with Uncertain Travel Times, ***NeurIPS***, 2024, [[paper](https://nips.cc/virtual/2024/poster/96075)]
 
 &bull; PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.14048.pdf)]
 
@@ -174,8 +177,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; On Size and Hardness Generalization in Unsupervised Learning for the Travelling Salesman Problem, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2403.20212)]
 
-&bull; Position: Rethinking Post-Hoc Search-Based Neural Approaches for Solving Large-Scale Traveling Salesman Problems, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2406.03503)]
+&bull; OptCM: The Optimization Consistency Models for Solving Combinatorial Problems in Few Shots, ***NeurIPS***, 2024, [[paper](https://neurips.cc/virtual/2024/poster/93096)]
 
+&bull; Position: Rethinking Post-Hoc Search-Based Neural Approaches for Solving Large-Scale Traveling Salesman Problems, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2406.03503)]
 
 
 ## Learning to Predict-Multiplicity (L2C-M) Solvers
@@ -247,7 +251,6 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; CADO: Cost-Aware Diffusion Solvers for Combinatorial Optimization through RL fine-tuning, ***ICML workshop***, 2024, [[paper](https://openreview.net/forum?id=RRbwBbYcvK&noteId=YTtrLSf0uU)]
 
 
-
 &bull; DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2406.19705)]
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, ***AAAI***, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
@@ -260,7 +263,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization, ***ECAI***, 2024, [[paper](https://arxiv.org/abs/2407.17206)]
 
-&bull; UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2407.00312)]
+&bull; UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, ***NeurIPS***, 2024, [[paper](https://arxiv.org/pdf/2407.00312)]
+
+
 
 ## NCO Solvers for Solving Multi-constrained VRP Variants
 
