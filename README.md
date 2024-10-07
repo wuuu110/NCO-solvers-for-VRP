@@ -99,6 +99,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, ***AAAI***, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
 
+&bull; DPN: Decoupling Partition and Navigation for Neural Solvers of Min-max Vehicle Routing Problems, ***ICML***, 2024, [[paper](https://openreview.net/forum?id=ar174skI9u)]
+
 &bull; Equity-Transformer: Solving NP-hard Min-Max Routing Problems as Sequential Generation with Equity Context, ***AAAI***, 2024, [[paper](https://arxiv.org/abs/2306.02689)]
 
 &bull; Hierarchical Neural Constructive Solver for Real-world TSP Scenarios, ***SIGKDD***, 2024, [[paper](https://www.arxiv.org/pdf/2408.03585)]
