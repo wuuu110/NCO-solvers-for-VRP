@@ -93,6 +93,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning, ***TETCI***, 2023, [[paper](https://ieeexplore.ieee.org/document/9690950)]
 
+&bull; SplitNet: A Reinforcement Learning Based Sequence Splitting Method for the MinMax Multiple Travelling Salesman Problem, ***AAAI***, 2023, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26049)]
+
 &bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, ***arXiv***, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
 
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, ***AAAI***, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
