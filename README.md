@@ -118,6 +118,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
 
+&bull; Learning to Handle Complex Constraints for Vehicle Routing Problems, ***NeurIPS***, 2024, [[paper](https://arxiv.org/abs/2410.21066.pdf)]
+
 ## Learning to Improve (L2I) Solvers
 
 &bull; Learning to Perform Local Rewriting for Combinatorial Optimization, ***NeurIPS***, 2019, [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/131f383b434fdf48079bff1e44e2d9a5-Paper.pdf)]
