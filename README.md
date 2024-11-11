@@ -74,6 +74,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Efficient Active Search for Combinatorial Optimization Problems, ***ICLR***, 2022, [[paper](https://openreview.net/pdf?id=nO5caZwFwYu)]
 
+&bull; Heterogeneous attentions for solving pickup and delivery problem via deep reinforcement learning, ***TNNLS***, 2022, [[paper](https://ieeexplore.ieee.org/abstract/document/9352489)]
+
 &bull; Reinforcement Learning With Multiple Relational Attention for Solving Vehicle Routing Problems, ***TCYB***, 2022, [[paper](https://ieeexplore.ieee.org/document/9478307)]
 
 &bull; Scale-conditioned Adaptation for Large Scale Combinatorial Optimization, ***NeurIPS(workshop)***, 2022, [[paper](https://openreview.net/pdf?id=oy8hDBI8Qx)]
@@ -97,6 +99,8 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; SplitNet: A Reinforcement Learning Based Sequence Splitting Method for the MinMax Multiple Travelling Salesman Problem, ***AAAI***, 2023, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26049)]
 
 &bull; Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems, ***arXiv***, 2023, [[paper](https://arxiv.org/abs/2308.00560)]
+
+&bull; 2D-Ptr: 2D Array Pointer Network for Solving the Heterogeneous Capacitated Vehicle Routing Problem, ***AAMAS***, 2024, [[paper](https://dl.acm.org/doi/pdf/10.5555/3635637.3662981)]
 
 &bull; Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed, ***AAAI***, 2024, [[paper](https://arxiv.org/abs/2312.12469)]
 
