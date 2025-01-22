@@ -275,7 +275,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, ***NeurIPS***, 2024, [[paper](https://arxiv.org/pdf/2407.00312)]
 
-
+&bull; DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling Salesman Problem, ***AAAI***, 2025, [[paper](https://arxiv.org/abs/2501.08565)]
 
 ## NCO Solvers for Solving Multi-constrained VRP Variants
 
