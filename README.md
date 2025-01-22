@@ -181,6 +181,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Ant Colony Sampling with GFlowNets for Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2403.07041.pdf)]
 
+&bull; Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization, ***NeurIPS***, 2024, [[paper](https://openreview.net/forum?id=xDrKZOZEOc&noteId=7cfZRv82pZ)]
+
+
 &bull; DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2406.19705)]
 
 &bull; GLOP: Learning Global Partition and Local Construction for Solving Large-scale Routing Problems in Real-time, ***AAAI***, 2024, [[paper](https://arxiv.org/pdf/2312.08224.pdf)]
