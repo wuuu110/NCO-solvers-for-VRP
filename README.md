@@ -194,6 +194,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Position: Rethinking Post-Hoc Search-Based Neural Approaches for Solving Large-Scale Traveling Salesman Problems, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2406.03503)]
 
+&bull; An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem, ***SIGKDD***, 2025, [[paper](https://github.com/DEITSP/DEITSP)]
+
 
 ## Learning to Predict-Multiplicity (L2C-M) Solvers
 
@@ -297,6 +299,9 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2408.12214)]
 
 &bull; A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints, ***IJCAI***, 2024, [[paper](https://www.ijcai.org/proceedings/2024/0218.pdf)]
+
+&bull; Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning, ***SIGKDD***, [[paper](https://arxiv.org/abs/2501.00884)]
+
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
