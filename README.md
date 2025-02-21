@@ -289,6 +289,10 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits, ***arXiv***, 2023, [[paper](https://arxiv.org/pdf/2305.06361)]
 
+&bull; A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints, ***IJCAI***, 2024, [[paper](https://www.ijcai.org/proceedings/2024/0218.pdf)]
+
+&bull; CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2412.00346)]
+
 &bull; Cross-problem learning for solving vehicle routing problems, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2404.11677)]
 
 &bull; Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, ***SIGKDD***, 2024, [[paper](https://arxiv.org/pdf/2402.16891)]
@@ -301,9 +305,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2408.12214)]
 
-&bull; A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints, ***IJCAI***, 2024, [[paper](https://www.ijcai.org/proceedings/2024/0218.pdf)]
 
-&bull; Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning, ***SIGKDD***, [[paper](https://arxiv.org/abs/2501.00884)]
+
+&bull; Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning, ***SIGKDD***, 2025 [[paper](https://arxiv.org/abs/2501.00884)]
 
 
 # Acknowledgements 📜
