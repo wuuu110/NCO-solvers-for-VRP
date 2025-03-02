@@ -274,8 +274,6 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Self-Improvement for Neural Combinatorial Optimization: Sample Without Replacement, but Improvement, ***TMLR***, 2024, [[paper](https://openreview.net/pdf?id=agT8ojoH0X)]
 
-&bull; Self-Improved Learning for Scalable Neural Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2403.19561)]
-
 &bull; Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization, ***ECAI***, 2024, [[paper](https://arxiv.org/abs/2407.17206)]
 
 &bull; UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems, ***NeurIPS***, 2024, [[paper](https://arxiv.org/pdf/2407.00312)]
@@ -305,10 +303,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2408.12214)]
 
-
-
-&bull; Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning, ***SIGKDD***, 2025 [[paper](https://arxiv.org/abs/2501.00884)]
-
+&bull; Goal: A generalist combinatorial optimization agent learner, ***ICLR***, 2025 [[paper](https://openreview.net/forum?id=z2z9suDRjw)]
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
