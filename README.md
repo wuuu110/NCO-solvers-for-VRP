@@ -147,6 +147,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Select and Optimize: Learning to Solve Large-scale TSP Instances, ***AISTATS***, 2023, [[paper](https://proceedings.mlr.press/v206/cheng23a/cheng23a.pdf)]
 
+&bull; Destroy and Repair Using Hyper-Graphs for Routing, ***AAAI***, 2025, [[paper](https://www.arxiv.org/pdf/2502.16170)]
+
+
 ## Learning to Predict-Once (L2P-O) Solvers
 
 &bull; An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, ***arXiv***, 2019, [[paper](https://arxiv.org/pdf/1906.01227.pdf)]
