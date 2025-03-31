@@ -282,6 +282,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling Salesman Problem, ***AAAI***, 2025, [[paper](https://arxiv.org/abs/2501.08565)]
 
+&bull; Destroy and Repair Using Hyper-Graphs for Routing, ***AAAI***, 2025, [[paper](https://www.arxiv.org/pdf/2502.16170)]
 
 ## NCO Solvers for Solving Multi-constrained VRP Variants
 
