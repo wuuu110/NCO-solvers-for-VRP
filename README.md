@@ -12,10 +12,10 @@ This repository provides an up-to-date list of studies addressing Vehicle Routin
 }
 ```
 # News 📰
-- **2024.11**: Our paper "An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem [[paper](https://arxiv.org/abs/2501.13767)] [[code](https://github.com/DEITSP/DEITSP)]" is accepted by KDD  
+- **2025.03**: Our paper "Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture" is accepted by Neural Networks [[paper](https://arxiv.org/pdf/2406.06652)] [[code](https://github.com/xybFight/VRP-Generalization)] 
+- **2024.11**: Our paper "An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem" is accepted by KDD [[paper](https://arxiv.org/abs/2501.13767)] [[code](https://github.com/DEITSP/DEITSP)]
 - **2024.10**: Our paper "Reinforcement Learning-based Non-Autoregressive
 Solver for Traveling Salesman Problems" is accepted by TNNLS  [[paper](https://arxiv.org/pdf/2308.00560)] [[code](https://github.com/xybFight/NAR4TSP)]
-- **2024.06**: We announce the release of our work "Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture" [[paper](https://arxiv.org/pdf/2406.06652)] [[code](https://github.com/xybFight/VRP-Generalization)] 
 - **2024.06**: We are excited to release this survey! 🚀
 - **2023.12**: Our paper "Distilling Autoregressive Models to Obtain High-Performance Non-autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed" is accepted by AAAI [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30008)] [[code](https://github.com/xybFight/GNARKD)]
 
