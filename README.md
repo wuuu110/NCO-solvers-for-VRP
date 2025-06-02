@@ -12,7 +12,7 @@ This repository provides an up-to-date list of studies addressing Vehicle Routin
 }
 ```
 # News 📰
-- **2025.05**: Our paper "DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning" is accepted by SIGKDD 2025 [[paper](https://arxiv.org/abs/2505.12627)] [[code](https://github.com/wuuu110/Hercules)]. 
+- **2025.05**: Our paper "Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models" is accepted by SIGKDD 2025 [[paper](https://arxiv.org/abs/2505.12627)] [[code](https://github.com/wuuu110/Hercules)]. 
 - **2025.05**: Our paper "DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning" is accepted by IJCAI 2025. 
 - **2025.03**: Our paper "Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture" is accepted by Neural Networks [[paper](https://arxiv.org/pdf/2406.06652)] [[code](https://github.com/xybFight/VRP-Generalization)] 
 - **2024.11**: Our paper "An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem" is accepted by SIGKDD [[paper](https://arxiv.org/abs/2501.13767)] [[code](https://github.com/DEITSP/DEITSP)]
