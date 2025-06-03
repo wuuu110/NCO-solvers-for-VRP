@@ -248,6 +248,12 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
 
+&bull; Purity Law for Generalizable Neural TSP Solvers, ***ICML***, 2025, [[paper](https://arxiv.org/pdf/2505.04558)]
+
+&bull; Purity Law for Generalizable Neural TSP Solvers, ***ICML***, 2025, [[paper](https://arxiv.org/pdf/2505.04558)]
+
+
+
 ## NCO Solvers for Solving Large-scale VRPs
 &bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, ***AAAI***, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
 
@@ -310,6 +316,8 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2408.12214)]
 
 &bull; Goal: A generalist combinatorial optimization agent learner, ***ICLR***, 2025 [[paper](https://openreview.net/forum?id=z2z9suDRjw)]
+
+&bull; SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy, ***ICLR***, 2025 [[paper]()]
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
