@@ -317,7 +317,11 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Goal: A generalist combinatorial optimization agent learner, ***ICLR***, 2025 [[paper](https://openreview.net/forum?id=z2z9suDRjw)]
 
-&bull; SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy, ***ICLR***, 2025 [[paper]()]
+&bull; SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy, ***ICML***, 2025 [[paper]()]
+
+&bull; BOPO: Neural combinatorial optimization via best-anchored and objective-guided preference optimization, ***ICML***, 2025 [[paper]()]
+
+&bull; CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention, ***ICML***, 2025 [[paper](https://arxiv.org/abs/2412.00346)]
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
