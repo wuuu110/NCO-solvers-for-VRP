@@ -125,6 +125,10 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
 
+&bull; BOPO: Neural combinatorial optimization via best-anchored and objective-guided preference optimization, ***ICML***, 2025 [[paper](https://openreview.net/forum?id=FLy6yXdrlW)]
+
+&bull; Preference Optimization for Combinatorial Optimization Problems, ***ICML***, 2025 [[paper](https://openreview.net/forum?id=8QkpCRio53)]
+
 ## Learning to Improve (L2I) Solvers
 
 &bull; Learning to Perform Local Rewriting for Combinatorial Optimization, ***NeurIPS***, 2019, [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/131f383b434fdf48079bff1e44e2d9a5-Paper.pdf)]
@@ -317,11 +321,11 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Goal: A generalist combinatorial optimization agent learner, ***ICLR***, 2025 [[paper](https://openreview.net/forum?id=z2z9suDRjw)]
 
-&bull; SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy, ***ICML***, 2025 [[paper]()]
-
-&bull; BOPO: Neural combinatorial optimization via best-anchored and objective-guided preference optimization, ***ICML***, 2025 [[paper]()]
-
 &bull; CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention, ***ICML***, 2025 [[paper](https://arxiv.org/abs/2412.00346)]
+
+&bull; Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2506.08898)]
+
+&bull; SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy, ***ICML***, 2025 [[paper](https://arxiv.org/html/2506.08424v1)]
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
