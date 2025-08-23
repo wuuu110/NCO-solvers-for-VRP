@@ -254,10 +254,6 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Purity Law for Generalizable Neural TSP Solvers, ***ICML***, 2025, [[paper](https://arxiv.org/pdf/2505.04558)]
 
-&bull; Purity Law for Generalizable Neural TSP Solvers, ***ICML***, 2025, [[paper](https://arxiv.org/pdf/2505.04558)]
-
-
-
 ## NCO Solvers for Solving Large-scale VRPs
 &bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, ***AAAI***, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
 
@@ -301,7 +297,6 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Learning to Segment for Vehicle Routing Problems, ***arXiv***, 2025, [[paper](https://arxiv.org/pdf/2507.01037)]
 
-&bull; 
 ## NCO Solvers for Solving Multi-constrained VRP Variants
 
 &bull; Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits, ***arXiv***, 2023, [[paper](https://arxiv.org/pdf/2305.06361)]
