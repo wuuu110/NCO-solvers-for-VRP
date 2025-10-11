@@ -325,7 +325,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; LMask: Learn to Solve Constrained Routing Problems with Lazy Masking, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2505.17938)]
 
-&bull; Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2506.08898)]
+&bull; Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.08898)]
 
 &bull; Learning to Insert for Constructive Neural Vehicle Routing Solver, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2505.13904)]
 
