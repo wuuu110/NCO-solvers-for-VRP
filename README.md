@@ -252,8 +252,11 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2308.14104.pdf)]
 
-&bull; Purity Law for Generalizable Neural TSP Solvers, ***ICML***, 2025, [[paper](https://arxiv.org/pdf/2505.04558)]
+&bull; DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning, ***IJCAI***, 2025, [[paper](https://www.ijcai.org/proceedings/2025/964)]
 
+&bull; Solving the Traveling Salesman Problem with positinonal encoding, ******, 2025, [[paper](https://hal.science/hal-05295614/)]
+
+&bull; Purity Law for Generalizable Neural TSP Solvers, ***ICML***, 2025, [[paper](https://arxiv.org/pdf/2505.04558)]
 
 
 ## NCO Solvers for Solving Large-scale VRPs
@@ -304,8 +307,6 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits, ***arXiv***, 2023, [[paper](https://arxiv.org/pdf/2305.06361)]
 
 &bull; A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints, ***IJCAI***, 2024, [[paper](https://www.ijcai.org/proceedings/2024/0218.pdf)]
-
-&bull; CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2412.00346)]
 
 &bull; Cross-problem learning for solving vehicle routing problems, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2404.11677)]
 
