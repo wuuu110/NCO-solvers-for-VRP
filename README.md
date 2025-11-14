@@ -24,7 +24,7 @@ This repository provides an up-to-date list of studies addressing Vehicle Routin
 
 
 # How To Request the Addition of a Paper 🤖
-If you know any paper addressing VRPs with NCO solvers that is absent from this repository, please feel free to request its inclusion by either submitting a pull request or contacting us via email at  ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn) or [n2308769c@e.ntu.edu.sg]()).
+If you know any paper addressing VRPs with NCO solvers that is absent from this repository, please feel free to request its inclusion by either submitting a pull request or contacting us via email at  ([wuuu22@mails.jlu.edu.cn](wuuu22@mails.jlu.edu.cn) or [xuanwu7@outlook.com](xuanwu7@outlook.com)).
 
 # Timeline 🌟
 
