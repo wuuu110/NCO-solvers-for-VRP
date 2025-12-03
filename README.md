@@ -12,6 +12,7 @@ This repository provides an up-to-date list of studies addressing Vehicle Routin
 }
 ```
 # News 📰
+- **2025.12**: Our paper "GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales" is accepted by **Pattern Recognition**[[paper](https://arxiv.org/abs/2506.06634)] [[code](https://github.com/xybFight/GELD)]. 
 - **2025.11**: Our paper "Efficient Few-Step Solution Generation via Discrete Flow Matching for Combinatorial Optimization" is accepted by **AAAI 2026**. 
 - **2025.05**: Our paper "Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models" is accepted by **SIGKDD 2025** [[paper](https://dl.acm.org/doi/10.1145/3711896.3736923)] [[code](https://github.com/wuuu110/Hercules)]. 
 - **2025.05**: Our paper "DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning" is accepted by **IJCAI 2025**[[paper](https://www.ijcai.org/proceedings/2025/0964.pdf)] [[code](https://github.com/wuyuesong/DGL)]. 
@@ -254,7 +255,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning, ***IJCAI***, 2025, [[paper](https://www.ijcai.org/proceedings/2025/964)]
 
-&bull; Solving the Traveling Salesman Problem with positinonal encoding, ******, 2025, [[paper](https://hal.science/hal-05295614/)]
+&bull; GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales, ***PR***, [[paper](https://arxiv.org/abs/2506.06634)] [[code](https://github.com/xybFight/GELD)]. 
+
+&bull; Solving the Traveling Salesman Problem with positinonal encoding, ***OpenReview***, 2025, [[paper](https://hal.science/hal-05295614/)]
 
 &bull; Purity Law for Generalizable Neural TSP Solvers, ***ICML***, 2025, [[paper](https://arxiv.org/pdf/2505.04558)]
 
@@ -299,6 +302,8 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling Salesman Problem, ***AAAI***, 2025, [[paper](https://arxiv.org/abs/2501.08565)]
 
 &bull; Destroy and Repair Using Hyper-Graphs for Routing, ***AAAI***, 2025, [[paper](https://www.arxiv.org/pdf/2502.16170)]
+
+&bull; GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales, ***PR***, [[paper](https://arxiv.org/abs/2506.06634)] [[code](https://github.com/xybFight/GELD)]. 
 
 &bull; Learning to Segment for Vehicle Routing Problems, ***arXiv***, 2025, [[paper](https://arxiv.org/pdf/2507.01037)]
 
