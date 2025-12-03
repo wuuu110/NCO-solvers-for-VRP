@@ -305,7 +305,12 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales, ***PR***, [[paper](https://arxiv.org/abs/2506.06634)] [[code](https://github.com/xybFight/GELD)]. 
 
+&bull; Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning, ***NeurIPS***, 2025, [[paper](https://openreview.net/forum?id=QPJjiNCRq1)] [[code](https://github.com/CIAM-Group/TTPL)].
+
+&bull; Learning to Insert for Constructive Neural Vehicle Routing Solver, ***NeurIPS***, 2025, [[paper](https://arxiv.org/pdf/2505.13904)][[code](https://github.com/CIAMGroup/L2C_Inser)].
+
 &bull; Learning to Segment for Vehicle Routing Problems, ***arXiv***, 2025, [[paper](https://arxiv.org/pdf/2507.01037)]
+
 
 ## NCO Solvers for Solving Multi-constrained VRP Variants
 
