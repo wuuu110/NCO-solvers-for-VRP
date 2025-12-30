@@ -316,6 +316,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Learning to Segment for Vehicle Routing Problems, ***arXiv***, 2025, [[paper](https://arxiv.org/pdf/2507.01037)]
 
+&bull; DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization, ***AAMAS***, 2026, [[paper](https://openreview.net/forum?id=sKvUxfBJpi)]**** 
 
 ## NCO Solvers for Solving Multi-constrained VRP Variants
 
