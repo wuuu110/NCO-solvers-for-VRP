@@ -261,6 +261,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Purity Law for Generalizable Neural TSP Solvers, ***ICML***, 2025, [[paper](https://arxiv.org/pdf/2505.04558)]
 
+&bull; Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation, ***AAAI***, 2026, [[paper](https://arxiv.org/abs/2511.10233)]
+
 
 ## NCO Solvers for Solving Large-scale VRPs
 &bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, ***AAAI***, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
