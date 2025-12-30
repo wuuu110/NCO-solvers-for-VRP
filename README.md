@@ -344,9 +344,12 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Learning to Reduce Search Space for Generalizable Neural Routing Solver, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2503.03137)]
 
+&bull; Multi-Task Vehicle Routing Solver via Mixture of Specialized Experts under State-Decomposable MDP, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2510.21453)]
+
 &bull; SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy, ***ICML***, 2025 [[paper](https://arxiv.org/html/2506.08424v1)]
 
 &bull; URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, ***arXiv***, 2025 [[paper](https://arxiv.org/abs/2509.23413)]
+
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
