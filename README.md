@@ -130,6 +130,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Preference Optimization for Combinatorial Optimization Problems, ***ICML***, 2025 [[paper](https://openreview.net/forum?id=8QkpCRio53)]
 
+&bull; UniteFormer: Unifying Node and Edge Modalities in Transformers for Vehicle Routing Problem, ***NeurIPS***, 2025 [[paper](https://openreview.net/pdf?id=BRklmFlCsD)]
+
 ## Learning to Improve (L2I) Solvers
 
 &bull; Learning to Perform Local Rewriting for Combinatorial Optimization, ***NeurIPS***, 2019, [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/131f383b434fdf48079bff1e44e2d9a5-Paper.pdf)]
@@ -263,6 +265,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation, ***AAAI***, 2026, [[paper](https://arxiv.org/abs/2511.10233)]
 
+&bull; Scale-Net: A Hierarchical U-Net Framework for Cross-Scale Generalization in Multi-Task Vehicle Routing Problems, ***AAAI***, 2026, [[paper](https://github.com/lsyysl9711/Scale-Net)]
 
 ## NCO Solvers for Solving Large-scale VRPs
 &bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, ***AAAI***, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
