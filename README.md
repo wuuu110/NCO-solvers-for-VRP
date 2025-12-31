@@ -348,6 +348,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Learning to Reduce Search Space for Generalizable Neural Routing Solver, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2503.03137)]
 
+&bull; MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.02935)]
+
 &bull; Multi-Task Vehicle Routing Solver via Mixture of Specialized Experts under State-Decomposable MDP, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2510.21453)]
 
 &bull; SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy, ***ICML***, 2025 [[paper](https://arxiv.org/html/2506.08424v1)]
