@@ -356,6 +356,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, ***arXiv***, 2025 [[paper](https://arxiv.org/abs/2509.23413)]
 
+&bull; UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP, ***ICLR***, 2025 [[paper](https://openreview.net/pdf?id=yEwakMNIex)]
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
