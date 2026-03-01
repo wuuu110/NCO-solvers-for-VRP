@@ -314,9 +314,12 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Learning to Insert for Constructive Neural Vehicle Routing Solver, ***NeurIPS***, 2025, [[paper](https://arxiv.org/pdf/2505.13904)][[code](https://github.com/CIAMGroup/L2C_Inser)].
 
-&bull; Learning to Segment for Vehicle Routing Problems, ***arXiv***, 2025, [[paper](https://arxiv.org/pdf/2507.01037)]
 
 &bull; DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization, **AAMAS**, 2026, [[paper](https://arxiv.org/pdf/2601.06502)] 
+
+&bull; Learning to Segment for Vehicle Routing Problems, ***ICLR***, 2026, [[paper](https://arxiv.org/pdf/2507.01037)]
+
+&bull; ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems, ***ICLR***, 2026, [[paper](https://openreview.net/forum?id=2LoaiaGKuV)]
 
 ## NCO Solvers for Solving Multi-constrained VRP Variants
 
