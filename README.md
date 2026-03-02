@@ -49,9 +49,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 [NCO Solvers for Large-scale VRPs](#NCO-solvers-for-Large-scale-VRPs)
 
-[NCO Solvers for Multi-constrained VRP Variants](##NCO-solvers-for-Multi-constrained-VRP-Variants)
+[NCO Solvers for Multi-constrained VRP Variants](##NCO-Solvers-for-Multi-constrained-VRP-Variants)
 
-[Cross-Problem Generalization in NCO Solvers](##Cross-problem-generalization-in-NCO-solvers)
+[Cross-Problem Generalization in NCO Solvers](##Cross-problem-Generalization-in-NCO-solvers)
 
 
 
