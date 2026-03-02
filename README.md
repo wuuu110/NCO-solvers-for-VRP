@@ -339,6 +339,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2408.12214)]
 
+&bull; ARC: Leveraging Compositional Representations for Cross-Problem Learning on VRPs, ***arXiv***, 2025, [[paper](https://arxiv.org/abs/2512.18633)]
+
 &bull; Goal: A generalist combinatorial optimization agent learner, ***ICLR***, 2025 [[paper](https://openreview.net/forum?id=z2z9suDRjw)]
 
 &bull; CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention, ***ICML***, 2025 [[paper](https://arxiv.org/abs/2412.00346)]
