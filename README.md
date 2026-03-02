@@ -273,7 +273,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Scale-Net: A Hierarchical U-Net Framework for Cross-Scale Generalization in Multi-Task Vehicle Routing Problems, ***AAAI***, 2026, [[paper](https://github.com/lsyysl9711/Scale-Net)]
 
-## NCO Solvers for Solving Large-scale VRPs
+## NCO Solvers for Large-scale VRPs
 &bull; Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances, ***AAAI***, 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16916)]
 
 &bull; Learning to Delegate for Large-scale Vehicle Routing ***NeurIPS***, 2021, [[paper](https://openreview.net/pdf?id=rm0I5y2zkG8)]
@@ -326,7 +326,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems, ***ICLR***, 2026, [[paper](https://openreview.net/forum?id=2LoaiaGKuV)]
 
-## NCO Solvers for Solving Multi-constrained VRP Variants
+## NCO Solvers for Multi-constrained VRP Variants
 
 &bull; A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints, ***IJCAI***, 2024, [[paper](https://www.ijcai.org/proceedings/2024/0218.pdf)]
 
