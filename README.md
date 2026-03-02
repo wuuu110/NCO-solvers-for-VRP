@@ -45,11 +45,15 @@ In addition, these papers are meticulously organized in ascending order based on
 
 [Learning to Predict-Multiplicity (L2C-M) solvers](#Learning-to-Predict-Multiplicity-L2C-M-solvers)
 
-[NCO Solvers for Solving Out-of-distribution](#NCO-solvers-for-Solving-Out-of-distribution)
+[Out-of-Distribution Generalization in NCO Solvers](#Out-of-distribution-generalization-in-NCO-solvers)
 
-[NCO Solvers for Solving Large-scale VRPs](#NCO-solvers-for-Solving-Large-scale-VRPs)
+[NCO Solvers for Large-scale VRPs](#NCO-solvers-for-Large-scale-VRPs)
 
-[NCO Solvers for Solving Multi-constrained VRP Variants](##NCO-solvers-for-Solving-Multi-constrained-VRP-Variants)
+[NCO Solvers for Multi-constrained VRP Variants](##NCO-solvers-for-Multi-constrained-VRP-Variants)
+
+[Cross-Problem Generalization in NCO Solvers](##Cross-problem-generalization-in-NCO-solvers)
+
+
 
 ## Learning to Construct (L2C) Solvers
 &bull; Pointer Networks, ***NeurIPS***, 2015, [[paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)]
@@ -233,7 +237,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; MOCO: A Learnable Meta Optimizer for Combinatorial Optimization, ***arXiv***, 2024, [[paper](https://arxiv.org/pdf/2402.04915.pdf)]
 
-## NCO Solvers for Solving Out-of-distribution
+## Out-of-Distribution Generalization in NCO Solvers
 
 &bull; Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness, ***ICLR***, 2022, [[paper](https://openreview.net/pdf?id=vJZ7dPIjip3)]
 
@@ -258,6 +262,8 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning, ***IJCAI***, 2025, [[paper](https://www.ijcai.org/proceedings/2025/964)]
 
 &bull; GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales, ***PR***, [[paper](https://arxiv.org/abs/2506.06634)] [[code](https://github.com/xybFight/GELD)]. 
+
+&bull; Learning to Reduce Search Space for Generalizable Neural Routing Solver, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2503.03137)]
 
 &bull; Solving the Traveling Salesman Problem with positinonal encoding, ***OpenReview***, 2025, [[paper](https://hal.science/hal-05295614/)]
 
@@ -314,7 +320,6 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Learning to Insert for Constructive Neural Vehicle Routing Solver, ***NeurIPS***, 2025, [[paper](https://arxiv.org/pdf/2505.13904)][[code](https://github.com/CIAMGroup/L2C_Inser)].
 
-
 &bull; DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization, **AAMAS**, 2026, [[paper](https://arxiv.org/pdf/2601.06502)] 
 
 &bull; Learning to Segment for Vehicle Routing Problems, ***ICLR***, 2026, [[paper](https://arxiv.org/pdf/2507.01037)]
@@ -323,19 +328,31 @@ In addition, these papers are meticulously organized in ascending order based on
 
 ## NCO Solvers for Solving Multi-constrained VRP Variants
 
-&bull; Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits, ***arXiv***, 2023, [[paper](https://arxiv.org/pdf/2305.06361)]
-
 &bull; A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints, ***IJCAI***, 2024, [[paper](https://www.ijcai.org/proceedings/2024/0218.pdf)]
+
+&bull; Prompt Learning for Generalized Vehicle Routing, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2405.12262)]
+
+&bull; RouteFinder: Towards Foundation Models for Vehicle Routing Problems, ***ICML workshop***, 2024, [[paper](https://openreview.net/forum?id=hCiaiZ6e4G)]
+
+&bull; LMask: Learn to Solve Constrained Routing Problems with Lazy Masking, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2505.17938)]
+
+&bull; Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.08898)]
+
+&bull; MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.02935)]
+
+&bull; Towards Real-World Routing with Neural Combinatorial Optimization, ***ICLR***, 2026 [[paper](https://openreview.net/forum?id=sKvo9ZZfpe)]
+
+&bull; USPR: Learning a Unified Solver for Profiled Routing, ***AAAI***, 2026 [[paper](https://arxiv.org/abs/2505.05119)] 
+
+## Cross-Problem Generalization in NCO Solvers
+
+&bull; Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits, ***arXiv***, 2023, [[paper](https://arxiv.org/pdf/2305.06361)]
 
 &bull; Cross-problem learning for solving vehicle routing problems, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2404.11677)]
 
 &bull; Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization, ***SIGKDD***, 2024, [[paper](https://arxiv.org/pdf/2402.16891)]
 
 &bull; MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts, ***ICML***, 2024, [[paper](https://arxiv.org/pdf/2405.01029)]
-
-&bull; Prompt Learning for Generalized Vehicle Routing, ***IJCAI***, 2024, [[paper](https://arxiv.org/pdf/2405.12262)]
-
-&bull; RouteFinder: Towards Foundation Models for Vehicle Routing Problems, ***ICML workshop***, 2024, [[paper](https://openreview.net/forum?id=hCiaiZ6e4G)]
 
 &bull; UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model, ***arXiv***, 2024, [[paper](https://arxiv.org/abs/2408.12214)]
 
@@ -344,16 +361,6 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Goal: A generalist combinatorial optimization agent learner, ***ICLR***, 2025 [[paper](https://openreview.net/forum?id=z2z9suDRjw)]
 
 &bull; CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention, ***ICML***, 2025 [[paper](https://arxiv.org/abs/2412.00346)]
-
-&bull; LMask: Learn to Solve Constrained Routing Problems with Lazy Masking, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2505.17938)]
-
-&bull; Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.08898)]
-
-&bull; Learning to Insert for Constructive Neural Vehicle Routing Solver, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2505.13904)]
-
-&bull; Learning to Reduce Search Space for Generalizable Neural Routing Solver, ***arXiv***, 2025 [[paper](https://arxiv.org/pdf/2503.03137)]
-
-&bull; MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.02935)]
 
 &bull; Multi-Task Vehicle Routing Solver via Mixture of Specialized Experts under State-Decomposable MDP, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2510.21453)]
 
