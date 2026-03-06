@@ -338,8 +338,6 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.08898)]
 
-&bull; MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.02935)]
-
 &bull; Towards Real-World Routing with Neural Combinatorial Optimization, ***ICLR***, 2026 [[paper](https://openreview.net/forum?id=sKvo9ZZfpe)]
 
 &bull; USPR: Learning a Unified Solver for Profiled Routing, ***AAAI***, 2026 [[paper](https://arxiv.org/abs/2505.05119)] 
@@ -361,6 +359,8 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Goal: A generalist combinatorial optimization agent learner, ***ICLR***, 2025 [[paper](https://openreview.net/forum?id=z2z9suDRjw)]
 
 &bull; CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention, ***ICML***, 2025 [[paper](https://arxiv.org/abs/2412.00346)]
+
+&bull; MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.02935)]
 
 &bull; Multi-Task Vehicle Routing Solver via Mixture of Specialized Experts under State-Decomposable MDP, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2510.21453)]
 
