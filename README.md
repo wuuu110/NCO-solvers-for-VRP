@@ -370,6 +370,8 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP, ***ICLR***, 2025 [[paper](https://openreview.net/pdf?id=yEwakMNIex)]
 
+&bull; Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, ***ICLR***, 2026 [[paper](https://openreview.net/forum?id=AhE6aSlz5g)]
+
 # Acknowledgements 📜
 This is an open collaborative research project among:
 
