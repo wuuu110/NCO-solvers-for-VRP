@@ -373,6 +373,8 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, ***ICLR***, 2026 [[paper](https://openreview.net/forum?id=AhE6aSlz5g)]
 
 &bull; Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems, ***ICLR***, 2026 [[paper](https://openreview.net/forum?id=lHBs9mbgwp)]
+
+&bull; Scale-Net: A Hierarchical U-Net Framework for Cross-Scale Generalization in Multi-Task Vehicle Routing, ***AAAI***, 2026 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38444)]
 # Acknowledgements 📜
 This is an open collaborative research project among:
 
