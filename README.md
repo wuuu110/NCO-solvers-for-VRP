@@ -366,7 +366,6 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy, ***ICML***, 2025 [[paper](https://arxiv.org/html/2506.08424v1)]
 
-&bull; URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, ***arXiv***, 2025 [[paper](https://arxiv.org/abs/2509.23413)]
 
 &bull; UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP, ***ICLR***, 2025 [[paper](https://openreview.net/pdf?id=yEwakMNIex)]
 
@@ -379,6 +378,8 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Scale-Net: A Hierarchical U-Net Framework for Cross-Scale Generalization in Multi-Task Vehicle Routing, ***AAAI***, 2026 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38444)]
 
 &bull; Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretrain and Adaptation, ***ICML***, 2026 [[paper]()]
+
+&bull; URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, ***ICML***, 2026 [[paper](https://arxiv.org/abs/2509.23413)]
 
 
 # Acknowledgements 📜
