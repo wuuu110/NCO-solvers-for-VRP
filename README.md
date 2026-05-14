@@ -338,9 +338,13 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.08898)]
 
+&bull; Towards Efficient Constraint Handling in Neural Solvers for Routing Problems, ***ICLR***, 2026 [[paper](https://openreview.net/forum?id=raDFGuQxvD)] 
+
 &bull; Towards Real-World Routing with Neural Combinatorial Optimization, ***ICLR***, 2026 [[paper](https://openreview.net/forum?id=sKvo9ZZfpe)]
 
 &bull; USPR: Learning a Unified Solver for Profiled Routing, ***AAAI***, 2026 [[paper](https://arxiv.org/abs/2505.05119)] 
+
+
 
 ## Cross-Problem Generalization in NCO Solvers
 
