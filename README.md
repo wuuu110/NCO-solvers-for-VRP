@@ -11,16 +11,17 @@ This repository provides an up-to-date list of studies addressing Vehicle Routin
 ```
 # News 📰
 - **2026.07**: The paper associated with this repository, "Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives", is accepted by **IEEE TNNLS**.
+- **2026.06**: Our paper "Efficient Neural Combinatorial Optimization Solver for the Min-max Heterogeneous Capacitated Vehicle Routing Problem" is accepted by **ESWA**[[paper](https://www.sciencedirect.com/science/article/pii/S0957417426021433)] [[code](https://github.com/wuuu110/echo)].
 - **2026.05**: Our paper "Learning to Handle Constrained Routing Problems From a Decoupling Perspective" is accepted by **SIGKDD 2026**.
 - **2025.12**: Our paper "GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales" is accepted by **Pattern Recognition**[[paper](https://arxiv.org/abs/2506.06634)] [[code](https://github.com/xybFight/GELD)]. 
 - **2025.11**: Our paper "Efficient Few-Step Solution Generation via Discrete Flow Matching for Combinatorial Optimization" is accepted by **AAAI 2026**. 
 - **2025.05**: Our paper "Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models" is accepted by **SIGKDD 2025** [[paper](https://dl.acm.org/doi/10.1145/3711896.3736923)] [[code](https://github.com/wuuu110/Hercules)]. 
 - **2025.05**: Our paper "DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning" is accepted by **IJCAI 2025**[[paper](https://www.ijcai.org/proceedings/2025/0964.pdf)] [[code](https://github.com/wuyuesong/DGL)]. 
-- **2025.03**: Our paper "Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture" is accepted by **Neural Networks** [[paper](https://www.sciencedirect.com/science/article/pii/S089360802500259X)] [[code](https://github.com/xybFight/VRP-Generalization)] 
-- **2024.11**: Our paper "An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem" is accepted by **SIGKDD 2025** [[paper](https://dl.acm.org/doi/10.1145/3690624.3709343)] [[code](https://github.com/DEITSP/DEITSP)]
-- **2024.10**: Our paper "Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems" is accepted by **IEEE TNNLS**  [[paper](https://ieeexplore.ieee.org/abstract/document/10737904/)] [[code](https://github.com/xybFight/NAR4TSP)]
+- **2025.03**: Our paper "Improving Generalization of Neural Vehicle Routing Problem Solvers Through the Lens of Model Architecture" is accepted by **Neural Networks** [[paper](https://www.sciencedirect.com/science/article/pii/S089360802500259X)] [[code](https://github.com/xybFight/VRP-Generalization)]. 
+- **2024.11**: Our paper "An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem" is accepted by **SIGKDD 2025** [[paper](https://dl.acm.org/doi/10.1145/3690624.3709343)] [[code](https://github.com/DEITSP/DEITSP)].
+- **2024.10**: Our paper "Reinforcement Learning-based Non-Autoregressive Solver for Traveling Salesman Problems" is accepted by **IEEE TNNLS**  [[paper](https://ieeexplore.ieee.org/abstract/document/10737904/)] [[code](https://github.com/xybFight/NAR4TSP)].
 - **2024.06**: We are excited to release this survey! 🚀
-- **2023.12**: Our paper "Distilling Autoregressive Models to Obtain High-Performance Non-autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed" is accepted by **AAAI 2024** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30008)] [[code](https://github.com/xybFight/GNARKD)]
+- **2023.12**: Our paper "Distilling Autoregressive Models to Obtain High-Performance Non-autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed" is accepted by **AAAI 2024** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30008)] [[code](https://github.com/xybFight/GNARKD)].
 
 
 
