@@ -2,16 +2,16 @@
 This repository provides an up-to-date list of studies addressing Vehicle Routing Problems (VRPs) using Neural Combinatorial Optimization (NCO) solvers. It follows the taxonomy provided in our manuscript "[Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives](https://arxiv.org/abs/2406.00415)". We are dedicated to updating this repository on a monthly basis. Your participation is appreciated; please consider starring ⭐️ this repository to stay informed about the latest updates and cite our paper if you find this repository beneficial 🚀🚀🚀.
 
 ```
-@misc{wu_2024_neural,
+@article{wu_2024_neural,
       title={Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives}, 
-      author = {Wu, Xuan and Wang, Di and Wen, Lijie and Xiao, Yubin and Wu, Chunguo and Wu, Yuesong and Yu, Chaoyu and Maskell, Douglas L. and Zhou, You},
-      year={2024},
-      eprint={2406.00415},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+      author = {Wu, Xuan and Wen, Lijie and Xiao, Yubin and Wu, Chunguo and Wu, Yuesong and Yu, Chaoyu and Maskell, Douglas L. and Zhou, You and Wang, Di},
+      year={2026},
+      journal={IEEE Transactions on Neural Networks and Learning Systems},
 }
 ```
 # News 📰
+- **2026.07**: The paper associated with this repository, "Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives", is accepted by **IEEE TNNLS**.
+- **2026.05**: Our paper "Learning to Handle Constrained Routing Problems From a Decoupling Perspective" is accepted by **SIGKDD 2026**.
 - **2025.12**: Our paper "GELD: A Unified Neural Model for Efficiently Solving Traveling Salesman Problems Across Different Scales" is accepted by **Pattern Recognition**[[paper](https://arxiv.org/abs/2506.06634)] [[code](https://github.com/xybFight/GELD)]. 
 - **2025.11**: Our paper "Efficient Few-Step Solution Generation via Discrete Flow Matching for Combinatorial Optimization" is accepted by **AAAI 2026**. 
 - **2025.05**: Our paper "Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models" is accepted by **SIGKDD 2025** [[paper](https://dl.acm.org/doi/10.1145/3711896.3736923)] [[code](https://github.com/wuuu110/Hercules)]. 
