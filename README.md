@@ -7,6 +7,7 @@ This repository provides an up-to-date list of studies addressing Vehicle Routin
       author = {Wu, Xuan and Wen, Lijie and Xiao, Yubin and Wu, Chunguo and Wu, Yuesong and Yu, Chaoyu and Maskell, Douglas L. and Zhou, You and Wang, Di},
       year={2026},
       journal={IEEE Transactions on Neural Networks and Learning Systems},
+  doi={10.1109/TNNLS.2026.3713193}
 }
 ```
 # News 📰
