@@ -328,6 +328,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems, ***ICLR***, 2026, [[paper](https://openreview.net/forum?id=2LoaiaGKuV)]
 
+&bull; SeqDiCO: Sequence-oriented Diffusion for Scale-Generalizable Neural Combinatorial Optimization, ***NeurIPS***, 2026, [[paper](https://neurips.cc/virtual/2026/loc/sydney/poster/149604)]
+
+
 ## NCO Solvers for Multi-constrained VRP Variants
 
 &bull; A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints, ***IJCAI***, 2024, [[paper](https://www.ijcai.org/proceedings/2024/0218.pdf)]
@@ -346,7 +349,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; USPR: Learning a Unified Solver for Profiled Routing, ***AAAI***, 2026 [[paper](https://arxiv.org/abs/2505.05119)] 
 
-
+&bull; Learning to Solve Compositional Geometry Routing Problems, ***NeurIPS***, 2026 [[paper](https://arxiv.org/abs/2605.18094)] 
 
 ## Cross-Problem Generalization in NCO Solvers
 
