@@ -387,6 +387,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, ***ICML***, 2026 [[paper](https://arxiv.org/abs/2509.23413)]
 
+&bull; SPACE: Unifying Symmetric and Asymmetric Routing Problems for Generalist Neural Solver, ***NeurIPS***, 2026 [[paper](https://arxiv.org/pdf/2605.24484)]
 
 # Acknowledgements 📜
 This is an open collaborative research project among:
