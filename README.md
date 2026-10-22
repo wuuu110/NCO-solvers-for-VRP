@@ -343,6 +343,11 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2506.08898)]
 
+&bull;  Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems, ***AAAI***, 2026 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38700)]
+
+&bull; MoE-Pointer: Seq2Seq Reinforcement Learning for Dynamic Multi-Echelon Pickup-and-Delivery with Courier-Drone Relay, ***KDD***, 2026 [[paper](https://dl.acm.org/doi/abs/10.1145/3770855.3818924)]
+
+
 &bull; Towards Efficient Constraint Handling in Neural Solvers for Routing Problems, ***ICLR***, 2026 [[paper](https://openreview.net/forum?id=raDFGuQxvD)] 
 
 &bull; Towards Real-World Routing with Neural Combinatorial Optimization, ***ICLR***, 2026 [[paper](https://openreview.net/forum?id=sKvo9ZZfpe)]
@@ -374,7 +379,6 @@ In addition, these papers are meticulously organized in ascending order based on
 &bull; Multi-Task Vehicle Routing Solver via Mixture of Specialized Experts under State-Decomposable MDP, ***NeurIPS***, 2025 [[paper](https://arxiv.org/pdf/2510.21453)]
 
 &bull; SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity and Hierarchy, ***ICML***, 2025 [[paper](https://arxiv.org/html/2506.08424v1)]
-
 
 &bull; UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP, ***ICLR***, 2025 [[paper](https://openreview.net/pdf?id=yEwakMNIex)]
 
