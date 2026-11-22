@@ -382,7 +382,7 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP, ***ICLR***, 2025 [[paper](https://openreview.net/pdf?id=yEwakMNIex)]
 
-&bull; Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?, ***ICML***, 2026 [[paper]()]
+&bull; Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?, ***ICML***, 2026 [[paper](https://openreview.net/forum?id=PbgF8AGP5O)]
 
 &bull; Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs, ***ICLR***, 2026 [[paper](https://openreview.net/forum?id=AhE6aSlz5g)]
 
@@ -390,7 +390,9 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; Scale-Net: A Hierarchical U-Net Framework for Cross-Scale Generalization in Multi-Task Vehicle Routing, ***AAAI***, 2026 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38444)]
 
-&bull; Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretrain and Adaptation, ***ICML***, 2026 [[paper]()]
+&bull; Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretrain and Adaptation, ***ICML***, 2026 [[paper](https://openreview.net/forum?id=OfxgzjqzeA)]
+
+&bull; PomtVRS: Preference-optimized multi-task vehicle routing solver with preference gating, ***ICML***, 2026 [[paper](https://openreview.net/forum?id=vJsJPNRFIJ)]
 
 &bull; URS: A Unified Neural Routing Solver for Cross-Problem Zero-Shot Generalization, ***ICML***, 2026 [[paper](https://arxiv.org/abs/2509.23413)]
 
