@@ -398,6 +398,10 @@ In addition, these papers are meticulously organized in ascending order based on
 
 &bull; SPACE: Unifying Symmetric and Asymmetric Routing Problems for Generalist Neural Solver, ***NeurIPS***, 2026 [[paper](https://arxiv.org/pdf/2605.24484)]
 
+
+&bull; A Unified Knowledge Embedded Reinforcement Learning-based Framework for Generalized Capacitated Vehicle Routing Problems, ***arXiv***, 2026 [[paper]( https://arxiv.org/abs/2605.14416)]
+
+
 # Acknowledgements 📜
 This is an open collaborative research project among:
 
